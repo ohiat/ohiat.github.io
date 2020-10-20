@@ -20,8 +20,8 @@
     left: 1em;
   }
 
-  background-color: $color-white;
-  border-bottom: $border;
+  background-color: $color-lightgreyer;
+  // border-bottom: $border;
 
   @media (min-width: $mq-small) {
     padding: {
@@ -34,7 +34,13 @@
     @extend %font-header;
 
     font-size: $font-xsmall;
-    color: $color-black;
+    color: rgba($color-orange, 0.9);
+
+    &:hover,
+    &:active,
+    &:focus {
+      color: $color-orange;
+    }
   }
 
   &__list {
@@ -54,8 +60,20 @@
         }
       }
 
+      &:hover,
+      &:active,
+      &:focus {
+        color: $color-orange;
+      }
+
       a {
-        color: $color-black;
+        color: rgba($color-orange, 0.9);
+
+        &:hover,
+        &:active,
+        &:focus {
+          color: $color-orange;
+        }
       }
     }
   }

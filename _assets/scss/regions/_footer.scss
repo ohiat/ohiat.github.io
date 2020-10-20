@@ -2,9 +2,9 @@
 // Footer
 //---------------------------------------------- 
 .footer {
-  color: $color-white;
-  background-color: $color-black;
-  border-top: $border;
+  color: $color-grey;
+  background-color: $color-lightgreyer;
+  // border-top: $border;
 
   &__container {
     margin-top: 3em;
@@ -27,13 +27,13 @@
 
   &__link {
     font-size: $font-small;
-    color: $color-white;
+    color: rgba($color-orange, 0.9);
     transition: color 200ms ease-in-out;
 
     &:hover,
     &:active,
     &:focus {
-      color: $color-grey;
+      color: $color-orange;
     }
   }
 
@@ -47,7 +47,13 @@
 
     a {
       font-size: 1.25em;
-      color: $color-white;
+      color: rgba($color-orange, 0.9);
+
+      &:hover,
+      &:active,
+      &:focus {
+        color: $color-orange;
+      }
     }
   }
 }

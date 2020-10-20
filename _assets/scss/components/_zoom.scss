@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Zoom
-//---------------------------------------------- 
+//----------------------------------------------
 .zoom-img,
 .zoom-img-wrap {
   z-index: 9999;
@@ -9,7 +9,7 @@
 .zoom-overlay {
   z-index: $z-999;
 
-  background: rgba($color-white, 0.9);
+  background: rgba($color-black, 0.8);
 
   &__close {
     @extend .popup__close;
@@ -18,9 +18,9 @@
   &__exit {
     @extend .popup__exit;
 
-    &:after, 
+    &:after,
     &:before {
-      background-color: $color-black;
+      background-color: $color-grey;
     }
   }
 }

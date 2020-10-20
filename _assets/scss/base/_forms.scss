@@ -35,12 +35,12 @@ textarea {
   }
 
   .footer & {
-    color: $color-white;
-    border: 2px solid rgba($color-white, 0.6);
+    color: $color-grey;
+    border: 2px solid rgba($color-orange, 0.6);
 
     &:hover,
     &:focus {
-      border-color: $color-white;
+      border-color: $color-orange;
     }
   }
 }

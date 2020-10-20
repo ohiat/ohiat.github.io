@@ -8,7 +8,7 @@ name: Ben Shulman
 title: Ben Shulman
 description: >
   Ben Shulman is a software engineer and naturalist guide as well as an amateur nature photographer.
-url: http://ohiat.github.io
+url: https://ohiat.github.io
 default_img: /assets/images/seo.jpg
 social:
   - name: instagram
@@ -33,7 +33,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 author:
   - name: Ben Shulman
     bio: Ben Shulman was born in Santa Monica, but grew up in Ithaca, NY. After college in Ithaca he moved to the west coast. He was a Software Engineer at Yelp, now at Mapbox. He is also a
-    url: http://thomasvaeth.com
+    url: https://ohiat.github.io
 
 # Pagination settings
 pagination:

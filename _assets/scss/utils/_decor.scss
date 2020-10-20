@@ -19,6 +19,18 @@
   background-color: rgba($color-white, 0.6);
 }
 
+.sep--orange {
+  @extend .sep;
+
+  background-color: rgba($color-orange, 0.6);
+}
+
+.sep--grey {
+  @extend .sep;
+
+  background-color: $color-grey;
+}
+
 //----------------------------------------------
 // Hidden
 //---------------------------------------------- 

@@ -12,7 +12,7 @@
 // Fonts
 //----------------------------------------------
 $font: "Roboto", sans-serif;
-$font-post: "Lora", serif;
+$font-post: "Roboto", sans-serif;
 
 //----------------------------------------------
 // Fonts: Lineheight
@@ -53,8 +53,11 @@ $color-alpha: #f00;
 $color-white: #fff;
 $color-lightgrey: #f8f8f8;
 $color-grey: #bbb;
-$color-darkgrey: #aaa;
+$color-lightgreyer: #6d6d6d;
+$color-greyer: #414141;
+$color-darkgrey: #292929;
 $color-black: #000;
+$color-orange: #F2992E;
 
 //----------------------------------------------
 // Z-indexes
@@ -79,7 +82,7 @@ $max-width--xl: 81em;
 // Misc
 //----------------------------------------------
 $header-height: 3em;
-$border: 1px solid rgba($color-black, 0.1);
+$border: 1px solid rgba($color-grey, 0.1);
 
 $ease-cb-1: cubic-bezier(0.4, 0, 0.2, 1);
 $ease-cb-2: cubic-bezier(0.19, 1, 0.22, 1);
