@@ -1,27 +1,22 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: shulman.benjamin@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Ben Shulman
+title: Ben Shulman
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Ben Shulman is a software engineer and naturalist guide as well as an amateur nature photographer.
+url: http://ohiat.github.io
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/bengoesbirding/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/bengunnarshulman/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/ohiat
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,8 +31,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+  - name: Ben Shulman
+    bio: Ben Shulman was born in Santa Monica, but grew up in Ithaca, NY. After college in Ithaca he moved to the west coast. He was a Software Engineer at Yelp, now at Mapbox. He is also a
     url: http://thomasvaeth.com
 
 # Pagination settings
