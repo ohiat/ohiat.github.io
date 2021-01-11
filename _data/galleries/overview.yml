@@ -1,16 +1,33 @@
--
- title: Missoula
- directory: missoula
- preview:
-  filename: crest
-  original: crest_1500.jpg
-  sizes: []
-  thumbnail: crest_1500.jpg
--
- title: Tanzania
- directory: tanzania
- preview:
-  filename: crest
-  original: sleeping-lion-1500x1000.jpg
-  sizes: [sleeping-lion-1500x1000.jpg]
-  thumbnail: sleeping-lion-thumbnail.jpg
+- directory: missoula
+  preview:
+    filename: crest
+    original: crest_1500.jpg
+    sizes: []
+    thumbnail: crest_1500.jpg
+  title: Missoula
+- directory: tanzania
+  preview:
+    filename: crest
+    original: sleeping-lion-1500x1000.jpg
+    sizes:
+    - sleeping-lion-1500x1000.jpg
+    thumbnail: sleeping-lion-thumbnail.jpg
+  title: Tanzania
+- directory: birds
+  preview:
+    caption: A dusky grouse poses with pride. (Lolo National Forest, MT)
+    datetime: '2020-09-23 15:26:32'
+    filename: 20200923-dsc_8339
+    keywords:
+    - bird
+    - frame-long-list
+    - montana
+    - ready
+    - website
+    orientation: portrait
+    original: 20200923-dsc_8339-1000x1500.jpg
+    sizes:
+    - 20200923-dsc_8339-1000x1500.jpg
+    thumbnail: 20200923-dsc_8339-thumbnail.jpg
+    title: Dusky grouse
+  title: Birds

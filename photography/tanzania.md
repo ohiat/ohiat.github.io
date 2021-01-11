@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Tanzania 2011-2012
+title: Tanzania
 support: [jquery, gallery]
 ---
 
