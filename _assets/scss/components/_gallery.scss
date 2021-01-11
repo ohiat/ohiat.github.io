@@ -14,8 +14,8 @@ html {
 /**
  * Wrapper
  */
-$spacing-unit: 30px;
-$content-width: 75%;
+$spacing-unit: 10px;
+$content-width: 100%;
 $on-laptop: 600px;
 
 // Use media queries like this:
@@ -76,10 +76,11 @@ $on-laptop: 600px;
 .image-gallery {
 
   display: block;
+  margin-top: 5px;
 
   .image-wrapper {
     float: left;
-    padding: 3px;
+    padding: 5px;
     cursor: pointer;
 
     // hack required if no padding
