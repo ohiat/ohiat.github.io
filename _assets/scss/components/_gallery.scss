@@ -27,6 +27,7 @@ html {
 $spacing-unit: 10px;
 $content-width: 100%;
 $on-laptop: 600px;
+$overview-width: 50%;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -85,14 +86,6 @@ $on-laptop: 600px;
 .gutter-sizer {
   width: $spacing-unit;
 }
-
-// .portrait {
-//   width: 25%;
-// }
-
-// .landscape {
-//   width: 25%;
-// }
 
 .image-gallery {
 
