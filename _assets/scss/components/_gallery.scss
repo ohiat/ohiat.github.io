@@ -1,4 +1,14 @@
 $default-width: 25%;
+$grid-width-5: 20%;
+$grid-width-4: 25%;
+$grid-width-3: 33.33%;
+$grid-width-2: 50%;
+$grid-width-1: 100%;
+
+$max-width-4: 1600px;
+$max-width-3: 1200px;
+$max-width-2: 800px;
+$max-width-1: 400px;
 
 * {
   -webkit-box-sizing: border-box;
@@ -52,18 +62,24 @@ $on-laptop: 600px;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
-
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$on-laptop} - (#{$spacing-unit}));
-    max-width: calc(#{$on-laptop} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
 }
 
 .image-wrapper,
 .gallery-sizer {
-  width: $default-width;
+  width: $grid-width-5;
+
+  @include media-query($max-width-4) {
+    width: $grid-width-4;
+  }
+  @include media-query($max-width-3) {
+    width: $grid-width-3;
+  }
+  @include media-query($max-width-2) {
+    width: $grid-width-2;
+  }
+  @include media-query($max-width-1) {
+    width: $grid-width-1;
+  }
 }
 
 .gutter-sizer {
