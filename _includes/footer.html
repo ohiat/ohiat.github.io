@@ -26,3 +26,36 @@
 {% endif %}
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
+
+{% if page.support contains 'gallery' %}
+<!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+
+<!-- Actual includes needed for the gallery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.10.0/js/lightgallery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lg-thumbnail/1.2.1/lg-thumbnail.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
+
+<script>
+$(document).ready(function() {
+  var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
+    thumbnail: true,
+    selector: '.image'
+  });
+});
+
+var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+  percentPosition: true,
+  columnWidth: '25%',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+
+$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
+  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
+});
+
+</script>
+{% endif %}

@@ -43,3 +43,8 @@
     ga('send', 'pageview');
   </script>
 {% endif %}
+
+{% if page.support contains 'gallery' %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.10.0/css/lightgallery.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.10.0/css/lg-transitions.min.css">
+{% endif %}

@@ -19,7 +19,7 @@ social:
     url: https://github.com/ohiat
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/grouse_missoula/crest_1500.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
@@ -52,13 +52,20 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: true
+
+
+defaults:
+  - scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
 
 # Build settings
 markdown: kramdown

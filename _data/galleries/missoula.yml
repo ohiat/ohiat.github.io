@@ -1,0 +1,52 @@
+picture_path: missoula
+preview:
+  filename: crest
+  original: crest_1500.jpg
+  sizes:
+    - crest_1500.jpg
+  thumbnail: crest_1500.jpg
+  orientation: portrait
+  tags: [bird, grouse, montana]
+pictures:
+- filename: crest
+  original: crest_1500.jpg
+  sizes:
+    - crest_1500.jpg
+  thumbnail: crest_1500.jpg
+  orientation: portrait
+  tags: [bird, grouse, montana]
+- filename: peeking
+  original: peeking_1500.jpg
+  sizes:
+    - peeking_1500.jpg
+  thumbnail: peeking_1500.jpg
+  orientation: landscape
+  tags: [bird, grouse, montana]
+- filename: portrait
+  original: portrait_1500.jpg
+  sizes:
+    - portrait_1500.jpg
+  thumbnail: portrait_1500.jpg
+  orientation: landscape
+  tags: [bird, grouse, montana]
+- filename: proud
+  original: proud_1500.jpg
+  sizes:
+    - proud_1500.jpg
+  thumbnail: proud_1500.jpg
+  orientation: portrait
+  tags: [bird, grouse, montana]
+- filename: teaberry
+  original: teaberry_1500.jpg
+  sizes:
+    - teaberry_1500.jpg
+  thumbnail: teaberry_1500.jpg
+  orientation: landscape
+  tags: [bird, grouse, montana]
+- filename: tree
+  original: tree_1500.jpg
+  sizes:
+    - tree_1500.jpg
+  thumbnail: tree_1500.jpg
+  orientation: portrait
+  tags: [bird, grouse, montana]
