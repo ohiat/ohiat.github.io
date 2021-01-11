@@ -1,10 +1,11 @@
 <div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
   <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
+  <div class="gutter-sizer"></div>
   {% for picture in include.gallery.pictures %}
   <div class="image-wrapper {{picture.orientation}}">
     <div data-src="{{ site.url }}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ picture.original }}" class="image"
     {% if picture.title %} data-sub-html="<h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}"{% endif %}>
-      <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+      <img class="img-src" alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </div>
   </div>
   {% endfor %}

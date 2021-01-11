@@ -48,9 +48,11 @@ $(document).ready(function() {
 
 var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
   percentPosition: true,
-  columnWidth: '25%',
   itemSelector: '.image-wrapper',
-  layoutMode: "masonry"
+  masonry: {
+    columnWidth: '.gallery-sizer',
+    gutter: '.gutter-sizer'
+  }
 });
 
 $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {

@@ -48,6 +48,7 @@ $on-laptop: 600px;
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
+  padding-top: calc(#{$spacing-unit} * 2);
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
@@ -65,30 +66,31 @@ $on-laptop: 600px;
   width: $default-width;
 }
 
-.portrait {
-  width: 25%;
+.gutter-sizer {
+  width: $spacing-unit;
 }
 
-.landscape {
-  width: 25%;
-}
+// .portrait {
+//   width: 25%;
+// }
+
+// .landscape {
+//   width: 25%;
+// }
 
 .image-gallery {
 
   display: block;
-  margin-top: 5px;
 
   .image-wrapper {
     float: left;
-    padding: 5px;
-    cursor: pointer;
+  }
 
-    // hack required if no padding
-    .image {
-      width: 100.1%;
-      width: calc( 100% + 1px );
-      height: 100%;
-    }
+  img {
+    padding: 0 10px 10px;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
   }
 
   &:after {
@@ -96,11 +98,6 @@ $on-laptop: 600px;
     display: block;
     clear: both;
   }
-}
-
-.caption {
-  position: static;
-  color: #aaa;
 }
 
 $on-palm: 600px;
