@@ -7,7 +7,7 @@ google_analytics:
 name: Ben Shulman
 title: Ben Shulman
 description: >
-  Ben Shulman is a software engineer and naturalist guide as well as an amateur nature photographer.
+  Ben Shulman is a software engineer, naturalist guide, and photographer.
 url: https://ohiat.github.io
 default_img: /assets/images/seo.jpg
 social:
@@ -20,10 +20,7 @@ social:
 
 # Contact settings
 contact_img: /assets/images/contact_penguin.jpeg
-formcarry: https://formcarry.com/s/HkIo0nMb7
-
-# Disqus settings
-disqus: test-apkdzgmqhj
+formcarry: https://formcarry.com/s/KSdnoHQoOC
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
@@ -32,7 +29,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Ben Shulman
-    bio: Ben Shulman was born in Santa Monica, but grew up in Ithaca, NY. After college in Ithaca he moved to the west coast. He was a Software Engineer at Yelp, now at Mapbox.
+    bio: Ben Shulman is a software engineer, naturalist guide, and photographer.
     url: https://ohiat.github.io
 
 # Pagination settings
