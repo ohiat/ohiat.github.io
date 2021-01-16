@@ -7,7 +7,7 @@
   // border-top: $border;
 
   &__container {
-    margin-top: 3em;
+    margin: 1em;
   }
 
   &__tags {
@@ -56,21 +56,25 @@
       }
     }
   }
+
+  .sep--orange {
+    margin-top: 1em
+  }
 }
 
 //----------------------------------------------
 // Flex based sticky footer
 //---------------------------------------------- 
-// body {
-//   display: flex;
-//   flex-direction: column;
-//   min-height: 100vh;
-// }
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
 main {
   position: relative;
-  // z-index: $z-1;
+  z-index: $z-1;
 
-  // flex-grow: 1;
+  flex-grow: 1;
   margin-top: $header-height;
 }

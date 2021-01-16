@@ -78,6 +78,8 @@ def main(indir, imgdir, page_dir, gallery_dir, gallery_name):
         f.write(GALLERY_MARKDOWN.format(capname=gallery_name.capitalize(), name=gallery_name))
 
     # update overview gallery
+    preview = next(p for p in img_ymls if p['orientation'] == 'landscape')
+
     ov = get_overview_yaml(gpath / "overview.yml")
     if not isinstance(ov, list):
         ov = []
@@ -85,7 +87,7 @@ def main(indir, imgdir, page_dir, gallery_dir, gallery_name):
     ovg = {
         'title': gallery_name.capitalize(),
         'directory': gallery_name,
-        'preview': img_ymls[0]
+        'preview': preview
     }
     gindex = -1
     for i, gal in enumerate(ov):

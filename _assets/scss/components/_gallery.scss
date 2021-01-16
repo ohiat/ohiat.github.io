@@ -109,8 +109,6 @@ $overview-width: 50%;
   }
 }
 
-$on-palm: 600px;
-
 //Light gallery specific changes
 .lg-outer .lg-thumb-item {
   border-color: $color-lightgreyer !important;
@@ -121,78 +119,36 @@ $on-palm: 600px;
 }
 
 // Overview gallery
+
+$laptop-overview: 1200px;
+$device-overview: 600px;
+
 #gallery-overview {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(#{$laptop-overview} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$laptop-overview} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
+  padding-top: calc(#{$spacing-unit} * 2);
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+
+  @include media-query($max-width-2) {
+    max-width: -webkit-calc(#{$device-overview} - (#{$spacing-unit} * 2));
+    max-width: calc(#{$device-overview} - (#{$spacing-unit} * 2));
+  }
+
   @extend %clearfix;
-}
 
-.row {
-  width: 100%;
-  display: block;
+  .image-wrapper,
+  .gallery-sizer {
+    width: $grid-width-2;
 
-  // base definition
-  .column {
-    float: left;
-    display: block;
-    box-sizing: border-box;
-  }
-
-  .full-width {
-    @extend .column;
-    width: 100%;
-  }
-
-  .half-width {
-    @extend .column;
-    @media screen and (min-width: $on-palm) {
-      width: 48%;
+    @include media-query($max-width-2) {
+      width: $grid-width-1;
     }
   }
 
-  .one-third-width {
-    @extend .column;
-    width: 31.3333333%;
-  }
-
-  .one-tenth-width {
-    @extend .column;
-    width: 10%;
-  }
-
-  .nine-tenth-width {
-    @extend .column;
-    @media screen and (min-width: $on-palm) {
-      width: 90%;
-    }
-  }
-
-  .two-third-width {
-    @extend .column;
-    @media screen and (min-width: $on-palm) {
-      width: 64.6666666%;
-    }
-  }
-
-  @media screen and (min-width: $on-palm) {
-    .left {
-      margin-left: 0;
-      margin-right: 2%;
-    }
-
-    .right {
-      margin-left: 2%;
-      margin-right: 0;
-    }
-  }
-
-  &::after{
-    content: "";
-    display: table;
-    clear: both;
+  .title {
+    text-align: center;
   }
 }
