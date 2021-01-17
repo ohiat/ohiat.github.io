@@ -1,0 +1,1346 @@
+picture_path: all
+pictures:
+- caption: A dusky grouse poses with pride. (Lolo National Forest, MT)
+  datetime: '2020-09-23 15:26:32'
+  filename: 20200923-dsc_8339
+  keywords:
+  - bird
+  - frame-long-list
+  - montana
+  - ready
+  - website
+  orientation: portrait
+  original: 20200923-dsc_8339-1000x1500.jpg
+  sizes:
+  - 20200923-dsc_8339-1000x1500.jpg
+  thumbnail: 20200923-dsc_8339-thumbnail.jpg
+  title: Dusky grouse
+- &id001
+  caption: A dusky grouse against the fall colors of Montana. (Lolo National Forest,
+    MT)
+  datetime: '2020-09-23 15:23:27'
+  filename: 20200923-dsc_8326
+  keywords:
+  - bird
+  - frame-long-list
+  - montana
+  - ready
+  - website
+  orientation: landscape
+  original: 20200923-dsc_8326-1500x1000.jpg
+  sizes:
+  - 20200923-dsc_8326-1500x1000.jpg
+  thumbnail: 20200923-dsc_8326-thumbnail.jpg
+  title: Dusky grouse
+- caption: Dusky grouse poses for a portrait in fall (Lolo National Forest, MT)
+  datetime: '2020-09-23 15:22:43'
+  filename: 20200923-dsc_8321
+  keywords:
+  - bird
+  - frame-long-list
+  - montana
+  - ready
+  - website
+  orientation: landscape
+  original: 20200923-dsc_8321-1500x1000.jpg
+  sizes:
+  - 20200923-dsc_8321-1500x1000.jpg
+  thumbnail: 20200923-dsc_8321-thumbnail.jpg
+  title: Dusky grouse
+- caption: A dusky grouse peers out from the undergrowth. (Lolo National Forest, MT)
+  datetime: '2020-09-21 15:47:10'
+  filename: 20200921-dsc_8258
+  keywords:
+  - bird
+  - frame-long-list
+  - montana
+  - ready
+  - website
+  orientation: landscape
+  original: 20200921-dsc_8258-1500x1000.jpg
+  sizes:
+  - 20200921-dsc_8258-1500x1000.jpg
+  thumbnail: 20200921-dsc_8258-thumbnail.jpg
+  title: Dusky grouse
+- caption: A dusky grouse feasts on a fall teaberry. (Lolo National Forest, MT)
+  datetime: '2020-09-21 15:43:43'
+  filename: 20200921-dsc_8255
+  keywords:
+  - bird
+  - frame-long-list
+  - montana
+  - ready
+  - website
+  orientation: landscape
+  original: 20200921-dsc_8255-1500x1000.jpg
+  sizes:
+  - 20200921-dsc_8255-1500x1000.jpg
+  thumbnail: 20200921-dsc_8255-thumbnail.jpg
+  title: Dusky grouse
+- caption: A ruffed grouse looks on warily. (Caribou-Targhee National Forest, ID)
+  datetime: '2020-09-18 06:49:40'
+  filename: 20200918-dsc_7927
+  keywords:
+  - bird
+  - frame-long-list
+  - idaho
+  - ready
+  - website
+  orientation: portrait
+  original: 20200918-dsc_7927-1000x1500.jpg
+  sizes:
+  - 20200918-dsc_7927-1000x1500.jpg
+  thumbnail: 20200918-dsc_7927-thumbnail.jpg
+  title: Ruffed grouse
+- caption: A turkey vulture yawns and stretches. (San Juan Island, WA)
+  datetime: '2020-08-24 13:41:27'
+  filename: 20200824-dsc_7673
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - washington
+  - website
+  orientation: landscape
+  original: 20200824-dsc_7673-1500x1041.jpg
+  sizes:
+  - 20200824-dsc_7673-1500x1041.jpg
+  thumbnail: 20200824-dsc_7673-thumbnail.jpg
+  title: Turkey vulture
+- caption: A turkey vulture preens. (San Juan Island, WA)
+  datetime: '2020-08-24 13:36:14'
+  filename: 20200824-dsc_7642
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - washington
+  - website
+  orientation: landscape
+  original: 20200824-dsc_7642-1500x899.jpg
+  sizes:
+  - 20200824-dsc_7642-1500x899.jpg
+  thumbnail: 20200824-dsc_7642-thumbnail.jpg
+  title: Turkey vulture
+- caption: Contemplating life. (San Juan Island, WA)
+  datetime: '2020-08-23 09:31:11'
+  filename: 20200823-dsc_7542
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - washington
+  - website
+  orientation: landscape
+  original: 20200823-dsc_7542-1500x1000.jpg
+  sizes:
+  - 20200823-dsc_7542-1500x1000.jpg
+  thumbnail: 20200823-dsc_7542-thumbnail.jpg
+  title: Downy woodpecker
+- caption: A female down woodpecker inspecting a tree branch. (San Juan Island, WA)
+  datetime: '2020-08-23 09:30:57'
+  filename: 20200823-dsc_7537
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - washington
+  - website
+  orientation: portrait
+  original: 20200823-dsc_7537-1225x1500.jpg
+  sizes:
+  - 20200823-dsc_7537-1225x1500.jpg
+  thumbnail: 20200823-dsc_7537-thumbnail.jpg
+  title: Downy woodpecker
+- caption: (San Juan Island, WA)
+  datetime: '2020-08-23 09:30:32'
+  filename: 20200823-dsc_7531
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - washington
+  - website
+  orientation: landscape
+  original: 20200823-dsc_7531-1500x1000.jpg
+  sizes:
+  - 20200823-dsc_7531-1500x1000.jpg
+  thumbnail: 20200823-dsc_7531-thumbnail.jpg
+  title: Hairy woodpecker
+- caption: A Wrentit does the splits with its lunch. (East Bay, SF Bay Area)
+  datetime: '2020-06-06 08:27:37'
+  filename: 20200606-dsc_7067
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200606-dsc_7067-1500x1000.jpg
+  sizes:
+  - 20200606-dsc_7067-1500x1000.jpg
+  thumbnail: 20200606-dsc_7067-thumbnail.jpg
+  title: Wrentit with lunch
+- caption: A pygmy nuthatch eyes a pinecone. (East Bay, SF Bay Area)
+  datetime: '2020-06-06 07:37:23'
+  filename: 20200606-dsc_6745
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200606-dsc_6745-1500x1000.jpg
+  sizes:
+  - 20200606-dsc_6745-1500x1000.jpg
+  thumbnail: 20200606-dsc_6745-thumbnail.jpg
+  title: Pygmy nuthatch on the hunt
+- caption: Red-winged blackbird dives towards the ground. (East Bay, SF Bay Area)
+  datetime: '2020-05-23 07:49:23'
+  filename: 20200523-dsc_6263
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200523-dsc_6263-1500x1000.jpg
+  sizes:
+  - 20200523-dsc_6263-1500x1000.jpg
+  thumbnail: 20200523-dsc_6263-thumbnail.jpg
+  title: Red-winged blackbird
+- caption: A young Bewick's wren. (Berkeley, CA)
+  datetime: '2020-05-13 17:26:45'
+  filename: 20200513-dsc_4869
+  keywords:
+  - bird
+  - california
+  - ready
+  - website
+  orientation: landscape
+  original: 20200513-dsc_4869-1500x1000.jpg
+  sizes:
+  - 20200513-dsc_4869-1500x1000.jpg
+  thumbnail: 20200513-dsc_4869-thumbnail.jpg
+  title: Bewick's Wren
+- caption: A lesser goldfinch munches on young flowers in spring. (East Bay, SF Bay
+    Area)
+  datetime: '2020-05-09 08:46:13'
+  filename: 20200509-dsc_4799
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200509-dsc_4799-1500x1000.jpg
+  sizes:
+  - 20200509-dsc_4799-1500x1000.jpg
+  thumbnail: 20200509-dsc_4799-thumbnail.jpg
+  title: Lesser goldfinch
+- caption: An Anna's hummingbird posing in early spring. (East Bay, SF Bay Area)
+  datetime: '2020-05-09 08:29:21'
+  filename: 20200509-dsc_4739
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200509-dsc_4739-1500x1000.jpg
+  sizes:
+  - 20200509-dsc_4739-1500x1000.jpg
+  thumbnail: 20200509-dsc_4739-thumbnail.jpg
+  title: Anna's hummingbird
+- caption: An Anna's hummingbird posing in early spring. (East Bay, SF Bay Area)
+  datetime: '2020-05-09 08:26:01'
+  filename: 20200509-dsc_4697
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200509-dsc_4697-1500x1000.jpg
+  sizes:
+  - 20200509-dsc_4697-1500x1000.jpg
+  thumbnail: 20200509-dsc_4697-thumbnail.jpg
+  title: Anna's hummingbird
+- caption: A Wilson's warbler in the underbrush. (East Bay, SF Bay Area)
+  datetime: '2020-05-09 07:21:29'
+  filename: 20200509-dsc_4420
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200509-dsc_4420-1500x1000.jpg
+  sizes:
+  - 20200509-dsc_4420-1500x1000.jpg
+  thumbnail: 20200509-dsc_4420-thumbnail.jpg
+  title: Wilson's warbler
+- caption: Feeding on flowers in hummingbird heaven. (East Bay, SF Bay Area)
+  datetime: '2020-04-30 08:57:44'
+  filename: 20200430-dsc_4314
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200430-dsc_4314-1500x1000.jpg
+  sizes:
+  - 20200430-dsc_4314-1500x1000.jpg
+  thumbnail: 20200430-dsc_4314-thumbnail.jpg
+  title: Anna's hummingbird
+- caption: Feeding on flowers in hummingbird heaven. (East Bay, SF Bay Area)
+  datetime: '2020-04-30 08:46:43'
+  filename: 20200430-dsc_3971
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200430-dsc_3971-1500x1000.jpg
+  sizes:
+  - 20200430-dsc_3971-1500x1000.jpg
+  thumbnail: 20200430-dsc_3971-thumbnail.jpg
+  title: Anna's hummingbird
+- caption: ''
+  datetime: '2020-02-27 08:53:51'
+  filename: nola---519
+  keywords:
+  - frame-long-list
+  - louisiana
+  - ready
+  - reptile
+  - website
+  orientation: portrait
+  original: nola---519-1000x1500.jpg
+  sizes:
+  - nola---519-1000x1500.jpg
+  thumbnail: nola---519-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2020-02-26 11:11:20'
+  filename: nola---355
+  keywords:
+  - bird
+  - louisiana
+  - ready
+  - sparrow
+  - swamp
+  - website
+  orientation: landscape
+  original: nola---355-1500x1000.jpg
+  sizes:
+  - nola---355-1500x1000.jpg
+  thumbnail: nola---355-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2020-02-26 10:59:22'
+  filename: nola---267
+  keywords:
+  - bird
+  - blue
+  - heron
+  - little
+  - louisiana
+  - ready
+  - website
+  orientation: portrait
+  original: nola---267-1000x1500.jpg
+  sizes:
+  - nola---267-1000x1500.jpg
+  thumbnail: nola---267-thumbnail.jpg
+  title: Little blue mirror
+- caption: ''
+  datetime: '2020-02-26 09:49:12'
+  filename: nola---180
+  keywords:
+  - bird
+  - egret
+  - louisiana
+  - ready
+  - snowy
+  - website
+  orientation: landscape
+  original: nola---180-1500x1000.jpg
+  sizes:
+  - nola---180-1500x1000.jpg
+  thumbnail: nola---180-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2020-02-26 09:09:47'
+  filename: nola---85
+  keywords:
+  - bird
+  - blue
+  - heron
+  - little
+  - louisiana
+  - ready
+  - website
+  orientation: landscape
+  original: nola---85-1500x1000.jpg
+  sizes:
+  - nola---85-1500x1000.jpg
+  thumbnail: nola---85-thumbnail.jpg
+  title: ''
+- caption: A little blue itch
+  datetime: '2020-02-26 09:09:03'
+  filename: nola---74
+  keywords:
+  - bird
+  - blue
+  - heron
+  - little
+  - louisiana
+  - ready
+  - website
+  orientation: portrait
+  original: nola---74-1000x1500.jpg
+  sizes:
+  - nola---74-1000x1500.jpg
+  thumbnail: nola---74-thumbnail.jpg
+  title: Little blue heron scratch
+- caption: ''
+  datetime: '2020-02-26 09:07:54'
+  filename: nola---50
+  keywords:
+  - bird
+  - blue
+  - heron
+  - little
+  - louisiana
+  - ready
+  - website
+  orientation: landscape
+  original: nola---50-1500x1000.jpg
+  sizes:
+  - nola---50-1500x1000.jpg
+  thumbnail: nola---50-thumbnail.jpg
+  title: ' '
+- caption: ''
+  datetime: '2020-02-08 13:28:56'
+  filename: 2020-02-08---254
+  keywords:
+  - bird
+  - california
+  - ready
+  - website
+  orientation: landscape
+  original: 2020-02-08---254-1500x1000.jpg
+  sizes:
+  - 2020-02-08---254-1500x1000.jpg
+  thumbnail: 2020-02-08---254-thumbnail.jpg
+  title: ''
+- caption: A great blue heron fully stretched out. (East Bay, SF Bay Area)
+  datetime: '2019-12-27 13:16:58'
+  filename: 2019---5827
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---5827-1500x1000.jpg
+  sizes:
+  - 2019---5827-1500x1000.jpg
+  thumbnail: 2019---5827-thumbnail.jpg
+  title: Great blue heron
+- caption: A black phoebe pauses for a moment. (East Bay, SF Bay Area)
+  datetime: '2019-12-26 12:24:38'
+  filename: 2019---5735
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---5735-1500x1000.jpg
+  sizes:
+  - 2019---5735-1500x1000.jpg
+  thumbnail: 2019---5735-thumbnail.jpg
+  title: Black phoebe
+- caption: A bushtit with a seed. (Berkeley, CA)
+  datetime: '2019-12-14 09:57:14'
+  filename: 2019---5604
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---5604-1500x1000.jpg
+  sizes:
+  - 2019---5604-1500x1000.jpg
+  thumbnail: 2019---5604-thumbnail.jpg
+  title: Bushtit
+- caption: ''
+  datetime: '2019-06-22 14:51:37'
+  filename: 2019---3471
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---3471-1500x1000.jpg
+  sizes:
+  - 2019---3471-1500x1000.jpg
+  thumbnail: 2019---3471-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2019-06-21 20:33:04'
+  filename: 2019---3418
+  keywords:
+  - alaska
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---3418-1500x1000.jpg
+  sizes:
+  - 2019---3418-1500x1000.jpg
+  thumbnail: 2019---3418-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2019-06-18 10:47:45'
+  filename: 2019---2636
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---2636-1500x1125.jpg
+  sizes:
+  - 2019---2636-1500x1125.jpg
+  thumbnail: 2019---2636-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2019-06-18 06:42:01'
+  filename: 2019---2619
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---2619-1500x1125.jpg
+  sizes:
+  - 2019---2619-1500x1125.jpg
+  thumbnail: 2019---2619-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-12-23 17:21:55'
+  filename: 2018---5511
+  keywords:
+  - bird
+  - florida
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---5511-1000x1500.jpg
+  sizes:
+  - 2018---5511-1000x1500.jpg
+  thumbnail: 2018---5511-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-12-23 17:21:49'
+  filename: 2018---5506
+  keywords:
+  - bird
+  - florida
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---5506-1000x1500.jpg
+  sizes:
+  - 2018---5506-1000x1500.jpg
+  thumbnail: 2018---5506-thumbnail.jpg
+  title: ''
+- caption: A black bear hunts for crabs in the intertidal. (British Columbia)
+  datetime: '2018-08-17 14:53:03'
+  filename: 2018---4956
+  keywords:
+  - british columbia
+  - helby
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4956-1500x1000.jpg
+  sizes:
+  - 2018---4956-1500x1000.jpg
+  thumbnail: 2018---4956-thumbnail.jpg
+  title: Black bear
+- caption: A young harbor seal prepares to slide into the water. (British Columbia)
+  datetime: '2018-08-13 14:09:26'
+  filename: 2018---4694
+  keywords:
+  - british columbia
+  - helby
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4694-1500x1000.jpg
+  sizes:
+  - 2018---4694-1500x1000.jpg
+  thumbnail: 2018---4694-thumbnail.jpg
+  title: Harbor seal
+- caption: Harlequin ducks camouflage themselves against the seaweed in the intertidal.
+    (British Columbia)
+  datetime: '2018-08-13 14:03:03'
+  filename: 2018---4650
+  keywords:
+  - british columbia
+  - helby
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4650-1500x1000.jpg
+  sizes:
+  - 2018---4650-1500x1000.jpg
+  thumbnail: 2018---4650-thumbnail.jpg
+  title: Harlequin ducks
+- caption: A harlequin duck hides in in the intertidal. (British Columbia)
+  datetime: '2018-08-13 14:02:47'
+  filename: 2018---4637
+  keywords:
+  - british columbia
+  - helby
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4637-1500x1000.jpg
+  sizes:
+  - 2018---4637-1500x1000.jpg
+  thumbnail: 2018---4637-thumbnail.jpg
+  title: Harlequin duck
+- caption: ''
+  datetime: '2018-08-13 13:35:51'
+  filename: 2018---4495
+  keywords:
+  - british columbia
+  - helby
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4495-1500x1000.jpg
+  sizes:
+  - 2018---4495-1500x1000.jpg
+  thumbnail: 2018---4495-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-07 16:44:26'
+  filename: 2018---2494
+  keywords:
+  - bird
+  - falklands
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---2494-1500x1000.jpg
+  sizes:
+  - 2018---2494-1500x1000.jpg
+  thumbnail: 2018---2494-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-07 16:22:48'
+  filename: 2018---2490
+  keywords:
+  - bird
+  - falklands
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---2490-1500x1000.jpg
+  sizes:
+  - 2018---2490-1500x1000.jpg
+  thumbnail: 2018---2490-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-07 09:59:40'
+  filename: 2018---2431
+  keywords:
+  - bird
+  - falklands
+  - frame-long-list
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---2431-1000x1500.jpg
+  sizes:
+  - 2018---2431-1000x1500.jpg
+  thumbnail: 2018---2431-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-07 09:55:12'
+  filename: 2018---2430
+  keywords:
+  - bird
+  - falklands
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---2430-1500x1000.jpg
+  sizes:
+  - 2018---2430-1500x1000.jpg
+  thumbnail: 2018---2430-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-07 08:40:02'
+  filename: 2018---2402
+  keywords:
+  - bird
+  - falklands
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---2402-1500x1000.jpg
+  sizes:
+  - 2018---2402-1500x1000.jpg
+  thumbnail: 2018---2402-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-03-02 15:12:20'
+  filename: 2018---2183
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---2183-1500x1000.jpg
+  sizes:
+  - 2018---2183-1500x1000.jpg
+  thumbnail: 2018---2183-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 17:22:40'
+  filename: 2018---2040
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---2040-1500x1000.jpg
+  sizes:
+  - 2018---2040-1500x1000.jpg
+  thumbnail: 2018---2040-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 14:27:06'
+  filename: 2018---1981
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1981-1500x1000.jpg
+  sizes:
+  - 2018---1981-1500x1000.jpg
+  thumbnail: 2018---1981-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 10:47:02'
+  filename: 2018---1961
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1961-1500x1000.jpg
+  sizes:
+  - 2018---1961-1500x1000.jpg
+  thumbnail: 2018---1961-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 06:54:30'
+  filename: 2018---1919
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1919-1500x1000.jpg
+  sizes:
+  - 2018---1919-1500x1000.jpg
+  thumbnail: 2018---1919-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 06:29:03'
+  filename: 2018---1900
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1900-1500x1000.jpg
+  sizes:
+  - 2018---1900-1500x1000.jpg
+  thumbnail: 2018---1900-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 06:26:14'
+  filename: 2018---1894
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1894-1500x1000.jpg
+  sizes:
+  - 2018---1894-1500x1000.jpg
+  thumbnail: 2018---1894-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 06:10:49'
+  filename: 2018---1883
+  keywords:
+  - bird
+  - frame-long-list
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1883-1500x1000.jpg
+  sizes:
+  - 2018---1883-1500x1000.jpg
+  thumbnail: 2018---1883-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-27 18:38:32'
+  filename: 2018---1715
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1715-1500x1000.jpg
+  sizes:
+  - 2018---1715-1500x1000.jpg
+  thumbnail: 2018---1715-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-23 10:09:14'
+  filename: 2018---1330
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1330-1500x1000.jpg
+  sizes:
+  - 2018---1330-1500x1000.jpg
+  thumbnail: 2018---1330-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-23 09:50:17'
+  filename: 2018---1324
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1324-1500x1000.jpg
+  sizes:
+  - 2018---1324-1500x1000.jpg
+  thumbnail: 2018---1324-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-21 10:03:45'
+  filename: 2018---1099
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---1099-1000x1500.jpg
+  sizes:
+  - 2018---1099-1000x1500.jpg
+  thumbnail: 2018---1099-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:56:52'
+  filename: 2018---1031
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1031-1500x1140.jpg
+  sizes:
+  - 2018---1031-1500x1140.jpg
+  thumbnail: 2018---1031-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:52:09'
+  filename: 2018---1027
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---1027-1000x1500.jpg
+  sizes:
+  - 2018---1027-1000x1500.jpg
+  thumbnail: 2018---1027-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:50:11'
+  filename: 2018---1017
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1017-1500x1000.jpg
+  sizes:
+  - 2018---1017-1500x1000.jpg
+  thumbnail: 2018---1017-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 15:07:23'
+  filename: 2018---964
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---964-1500x1000.jpg
+  sizes:
+  - 2018---964-1500x1000.jpg
+  thumbnail: 2018---964-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 10:53:23'
+  filename: 2018---892
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---892-1500x1000.jpg
+  sizes:
+  - 2018---892-1500x1000.jpg
+  thumbnail: 2018---892-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 19:03:40'
+  filename: 2018---298
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---298-1500x951.jpg
+  sizes:
+  - 2018---298-1500x951.jpg
+  thumbnail: 2018---298-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 18:00:22'
+  filename: 2018---801
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---801-1500x1000.jpg
+  sizes:
+  - 2018---801-1500x1000.jpg
+  thumbnail: 2018---801-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 17:55:25'
+  filename: 2018---774
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---774-1500x1000.jpg
+  sizes:
+  - 2018---774-1500x1000.jpg
+  thumbnail: 2018---774-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 17:32:15'
+  filename: 2018---691
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---691-1500x1000.jpg
+  sizes:
+  - 2018---691-1500x1000.jpg
+  thumbnail: 2018---691-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 17:26:06'
+  filename: 2018---670
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---670-1500x1000.jpg
+  sizes:
+  - 2018---670-1500x1000.jpg
+  thumbnail: 2018---670-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 14:50:15'
+  filename: 2018---349
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---349-1500x1000.jpg
+  sizes:
+  - 2018---349-1500x1000.jpg
+  thumbnail: 2018---349-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 14:06:33'
+  filename: 2018---315
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---315-1500x1000.jpg
+  sizes:
+  - 2018---315-1500x1000.jpg
+  thumbnail: 2018---315-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 10:53:55'
+  filename: 2018---265
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---265-1500x1000.jpg
+  sizes:
+  - 2018---265-1500x1000.jpg
+  thumbnail: 2018---265-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-18 17:38:10'
+  filename: 2018---245
+  keywords:
+  - antarctica
+  - bird
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---245-1500x1000.jpg
+  sizes:
+  - 2018---245-1500x1000.jpg
+  thumbnail: 2018---245-thumbnail.jpg
+  title: ''
+- caption: A juvenile lilac-breasted roller rests on a bush (Ruaha NP, Tanzania)
+  datetime: '2012-12-28 05:40:24'
+  filename: 2012---372
+  keywords:
+  - Day_12
+  - africa
+  - bird
+  - frame-long-list
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---372-1500x1000.jpg
+  sizes:
+  - 2012---372-1500x1000.jpg
+  thumbnail: 2012---372-thumbnail.jpg
+  title: Lilac-breasted roller
+- caption: A hippo bellows in a full pool (Ruaha NP, Tanzania)
+  datetime: '2012-12-28 03:38:37'
+  filename: 2012---362
+  keywords:
+  - Day_12
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---362-1500x1000.jpg
+  sizes:
+  - 2012---362-1500x1000.jpg
+  thumbnail: 2012---362-thumbnail.jpg
+  title: Hippo
+- caption: A male Red-headed agama (Ruaha NP, Tanzania)
+  datetime: '2012-12-28 02:18:08'
+  filename: 2012---346
+  keywords:
+  - Day_12
+  - africa
+  - frame-long-list
+  - ready
+  - reptile
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---346-1500x1000.jpg
+  sizes:
+  - 2012---346-1500x1000.jpg
+  thumbnail: 2012---346-thumbnail.jpg
+  title: Red-headed Agama
+- caption: The moon rises in the late afternoon along the Great Ruaha River (Ruaha
+    NP, Tanzania)
+  datetime: '2012-12-26 10:45:34'
+  filename: 2012---317
+  keywords:
+  - Day_10_2
+  - africa
+  - frame-long-list
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: portrait
+  original: 2012---317-1000x1500.jpg
+  sizes:
+  - 2012---317-1000x1500.jpg
+  thumbnail: 2012---317-thumbnail.jpg
+  title: Ruaha Afternoon
+- caption: A black heron stalks in the shallows of a pool (Selous, Tanzania)
+  datetime: '2012-12-24 08:45:38'
+  filename: 2012---257
+  keywords:
+  - Day_8-Part_2
+  - africa
+  - bird
+  - frame-long-list
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---257-1500x1000.jpg
+  sizes:
+  - 2012---257-1500x1000.jpg
+  thumbnail: 2012---257-thumbnail.jpg
+  title: Black heron
+- caption: A lioness rips at what remains of a giraffe. (Selous, Tanzania)
+  datetime: '2012-12-23 10:25:11'
+  filename: 2012---218
+  keywords:
+  - Day_7-Part_2
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---218-1500x1000.jpg
+  sizes:
+  - 2012---218-1500x1000.jpg
+  thumbnail: 2012---218-thumbnail.jpg
+  title: Dinner
+- caption: A lioness lies in a stupor after a gorging herself on a  giraffe (Selous,
+    Tanzania)
+  datetime: '2012-12-23 09:18:09'
+  filename: 2012---211
+  keywords:
+  - Day_7-Part_2
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---211-1500x1000.jpg
+  sizes:
+  - 2012---211-1500x1000.jpg
+  thumbnail: 2012---211-thumbnail.jpg
+  title: Full belly
+- caption: A yellow-winged bat roosts on a hot day (Selous, Tanzania)
+  datetime: '2012-12-22 23:40:58'
+  filename: 2012---184
+  keywords:
+  - Day_7-Part_1
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---184-1500x1000.jpg
+  sizes:
+  - 2012---184-1500x1000.jpg
+  thumbnail: 2012---184-thumbnail.jpg
+  title: Yellow-winged bat
+- caption: Erosiion along the banks of the Rufiji River resemble a city carved into
+    a cliff. (Selous, Tanzania)
+  datetime: '2012-12-21 09:56:55'
+  filename: 2012---165
+  keywords:
+  - Day_5-Part_2
+  - africa
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---165-1500x1000.jpg
+  sizes:
+  - 2012---165-1500x1000.jpg
+  thumbnail: 2012---165-thumbnail.jpg
+  title: Cliff city in miniature
+- caption: A lioness rests during the hottest part of the day. (Selous, Tanzania)
+  datetime: '2012-12-21 03:21:29'
+  filename: 2012---142
+  keywords:
+  - Day_5-Part_1
+  - africa
+  - frame-long-list
+  - lion
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---142-1500x1000.jpg
+  sizes:
+  - 2012---142-1500x1000.jpg
+  thumbnail: 2012---142-thumbnail.jpg
+  title: Sleeping lion
+- caption: Erosion along the banks of the Rufiji River expose a plant's roots (Selous,
+    Tanzania)
+  datetime: '2012-12-20 10:12:16'
+  filename: 2012---129
+  keywords:
+  - Day_4-Part_2
+  - africa
+  - frame-long-list
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: portrait
+  original: 2012---129-1000x1500.jpg
+  sizes:
+  - 2012---129-1000x1500.jpg
+  thumbnail: 2012---129-thumbnail.jpg
+  title: Cross-section
+- caption: A Malachite kingfisher along the Rufiji River (Selous, Tanzania)
+  datetime: '2012-12-18 00:56:49'
+  filename: 2012---38
+  keywords:
+  - Day_2-Part_1
+  - africa
+  - bird
+  - frame-long-list
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---38-1500x1000.jpg
+  sizes:
+  - 2012---38-1500x1000.jpg
+  thumbnail: 2012---38-thumbnail.jpg
+  title: Malachite Kingfisher
+- caption: A Yellow-billed stork along the Rufiji River (Selous, Tanzania)
+  datetime: '2012-12-18 00:56:02'
+  filename: 2012---34
+  keywords:
+  - Day_2-Part_1
+  - africa
+  - bird
+  - frame-long-list
+  - ready
+  - stork
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---34-1500x1000.jpg
+  sizes:
+  - 2012---34-1500x1000.jpg
+  thumbnail: 2012---34-thumbnail.jpg
+  title: Yellow-billed stork
+preview: *id001

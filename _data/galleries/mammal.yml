@@ -1,0 +1,226 @@
+picture_path: all
+pictures:
+- &id001
+  caption: A black bear hunts for crabs in the intertidal. (British Columbia)
+  datetime: '2018-08-17 14:53:03'
+  filename: 2018---4956
+  keywords:
+  - british columbia
+  - helby
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4956-1500x1000.jpg
+  sizes:
+  - 2018---4956-1500x1000.jpg
+  thumbnail: 2018---4956-thumbnail.jpg
+  title: Black bear
+- caption: A young harbor seal prepares to slide into the water. (British Columbia)
+  datetime: '2018-08-13 14:09:26'
+  filename: 2018---4694
+  keywords:
+  - british columbia
+  - helby
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---4694-1500x1000.jpg
+  sizes:
+  - 2018---4694-1500x1000.jpg
+  thumbnail: 2018---4694-thumbnail.jpg
+  title: Harbor seal
+- caption: ''
+  datetime: '2018-02-28 14:27:06'
+  filename: 2018---1981
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1981-1500x1000.jpg
+  sizes:
+  - 2018---1981-1500x1000.jpg
+  thumbnail: 2018---1981-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-28 06:54:30'
+  filename: 2018---1919
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1919-1500x1000.jpg
+  sizes:
+  - 2018---1919-1500x1000.jpg
+  thumbnail: 2018---1919-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-27 18:38:32'
+  filename: 2018---1715
+  keywords:
+  - frame-long-list
+  - mammal
+  - ready
+  - south georgia
+  - website
+  orientation: landscape
+  original: 2018---1715-1500x1000.jpg
+  sizes:
+  - 2018---1715-1500x1000.jpg
+  thumbnail: 2018---1715-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-23 10:09:14'
+  filename: 2018---1330
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1330-1500x1000.jpg
+  sizes:
+  - 2018---1330-1500x1000.jpg
+  thumbnail: 2018---1330-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:56:52'
+  filename: 2018---1031
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1031-1500x1140.jpg
+  sizes:
+  - 2018---1031-1500x1140.jpg
+  thumbnail: 2018---1031-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:52:09'
+  filename: 2018---1027
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---1027-1000x1500.jpg
+  sizes:
+  - 2018---1027-1000x1500.jpg
+  thumbnail: 2018---1027-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-20 18:50:11'
+  filename: 2018---1017
+  keywords:
+  - antarctica
+  - frame-long-list
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---1017-1500x1000.jpg
+  sizes:
+  - 2018---1017-1500x1000.jpg
+  thumbnail: 2018---1017-thumbnail.jpg
+  title: ''
+- caption: A hippo bellows in a full pool (Ruaha NP, Tanzania)
+  datetime: '2012-12-28 03:38:37'
+  filename: 2012---362
+  keywords:
+  - Day_12
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---362-1500x1000.jpg
+  sizes:
+  - 2012---362-1500x1000.jpg
+  thumbnail: 2012---362-thumbnail.jpg
+  title: Hippo
+- caption: A lioness rips at what remains of a giraffe. (Selous, Tanzania)
+  datetime: '2012-12-23 10:25:11'
+  filename: 2012---218
+  keywords:
+  - Day_7-Part_2
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---218-1500x1000.jpg
+  sizes:
+  - 2012---218-1500x1000.jpg
+  thumbnail: 2012---218-thumbnail.jpg
+  title: Dinner
+- caption: A lioness lies in a stupor after a gorging herself on a  giraffe (Selous,
+    Tanzania)
+  datetime: '2012-12-23 09:18:09'
+  filename: 2012---211
+  keywords:
+  - Day_7-Part_2
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---211-1500x1000.jpg
+  sizes:
+  - 2012---211-1500x1000.jpg
+  thumbnail: 2012---211-thumbnail.jpg
+  title: Full belly
+- caption: A yellow-winged bat roosts on a hot day (Selous, Tanzania)
+  datetime: '2012-12-22 23:40:58'
+  filename: 2012---184
+  keywords:
+  - Day_7-Part_1
+  - africa
+  - frame-long-list
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---184-1500x1000.jpg
+  sizes:
+  - 2012---184-1500x1000.jpg
+  thumbnail: 2012---184-thumbnail.jpg
+  title: Yellow-winged bat
+- caption: A lioness rests during the hottest part of the day. (Selous, Tanzania)
+  datetime: '2012-12-21 03:21:29'
+  filename: 2012---142
+  keywords:
+  - Day_5-Part_1
+  - africa
+  - frame-long-list
+  - lion
+  - mammal
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---142-1500x1000.jpg
+  sizes:
+  - 2012---142-1500x1000.jpg
+  thumbnail: 2012---142-thumbnail.jpg
+  title: Sleeping lion
+preview: *id001

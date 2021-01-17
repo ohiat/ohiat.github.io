@@ -1,0 +1,147 @@
+picture_path: all
+pictures:
+- &id001
+  caption: ''
+  datetime: '2019-06-22 14:51:37'
+  filename: 2019---3471
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---3471-1500x1000.jpg
+  sizes:
+  - 2019---3471-1500x1000.jpg
+  thumbnail: 2019---3471-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2019-06-18 10:47:45'
+  filename: 2019---2636
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---2636-1500x1125.jpg
+  sizes:
+  - 2019---2636-1500x1125.jpg
+  thumbnail: 2019---2636-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2019-06-18 06:42:01'
+  filename: 2019---2619
+  keywords:
+  - alaska
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2019---2619-1500x1125.jpg
+  sizes:
+  - 2019---2619-1500x1125.jpg
+  thumbnail: 2019---2619-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-21 10:03:45'
+  filename: 2018---1099
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 2018---1099-1000x1500.jpg
+  sizes:
+  - 2018---1099-1000x1500.jpg
+  thumbnail: 2018---1099-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 19:03:40'
+  filename: 2018---298
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---298-1500x951.jpg
+  sizes:
+  - 2018---298-1500x951.jpg
+  thumbnail: 2018---298-thumbnail.jpg
+  title: ''
+- caption: ''
+  datetime: '2018-02-19 14:50:15'
+  filename: 2018---349
+  keywords:
+  - antarctica
+  - frame-long-list
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 2018---349-1500x1000.jpg
+  sizes:
+  - 2018---349-1500x1000.jpg
+  thumbnail: 2018---349-thumbnail.jpg
+  title: ''
+- caption: The moon rises in the late afternoon along the Great Ruaha River (Ruaha
+    NP, Tanzania)
+  datetime: '2012-12-26 10:45:34'
+  filename: 2012---317
+  keywords:
+  - Day_10_2
+  - africa
+  - frame-long-list
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: portrait
+  original: 2012---317-1000x1500.jpg
+  sizes:
+  - 2012---317-1000x1500.jpg
+  thumbnail: 2012---317-thumbnail.jpg
+  title: Ruaha Afternoon
+- caption: Erosiion along the banks of the Rufiji River resemble a city carved into
+    a cliff. (Selous, Tanzania)
+  datetime: '2012-12-21 09:56:55'
+  filename: 2012---165
+  keywords:
+  - Day_5-Part_2
+  - africa
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: landscape
+  original: 2012---165-1500x1000.jpg
+  sizes:
+  - 2012---165-1500x1000.jpg
+  thumbnail: 2012---165-thumbnail.jpg
+  title: Cliff city in miniature
+- caption: Erosion along the banks of the Rufiji River expose a plant's roots (Selous,
+    Tanzania)
+  datetime: '2012-12-20 10:12:16'
+  filename: 2012---129
+  keywords:
+  - Day_4-Part_2
+  - africa
+  - frame-long-list
+  - nature
+  - ready
+  - tanzania
+  - website
+  orientation: portrait
+  original: 2012---129-1000x1500.jpg
+  sizes:
+  - 2012---129-1000x1500.jpg
+  thumbnail: 2012---129-thumbnail.jpg
+  title: Cross-section
+preview: *id001

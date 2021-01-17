@@ -21,10 +21,42 @@ support: [jquery, gallery]
 {{% include gallery-layout.html gallery=site.data.galleries.{name} %}}
 """
 
+GALLERY_TAGS = [
+    'bird',
+    'mammal',
+    'nature',
+    'reptile',
+    # 'tanzania',
+    # 'alaska',
+    # 'british columbia',
+    # 'montana',
+    # 'california',
+    # 'washington',
+    # 'antartica',
+    # 'south georgia',
+    # 'falklands'
+]
 
-def main(indir, imgdir, page_dir, gallery_dir, gallery_name):
+TAG_TO_NAME = {
+    'bird': 'Birds',
+    'mammal': 'Mammals',
+    'reptile': 'Reptiles',
+    'nature': 'Nature',
+    'tanzania': 'Tanzania',
+    'alaska': 'Alaska',
+    'british columbia': 'British Columbia',
+    'montana': 'Montana',
+    'california': 'California',
+    'washington': 'Washington',
+    'antartica': 'Antartica',
+    'south georgia': 'South Georgia',
+    'falklands': 'The Falklands'
+}
+
+
+def main(indir, imgdir, page_dir, gallery_dir, picture_path):
     inpath = Path(indir)
-    outpath = Path(imgdir) / gallery_name
+    outpath = Path(imgdir) / picture_path
     gpath = Path(gallery_dir)
     ppath = Path(page_dir)
 
@@ -65,40 +97,55 @@ def main(indir, imgdir, page_dir, gallery_dir, gallery_name):
     # newest first
     img_ymls = sorted(img_ymls, key=lambda x: x['datetime'], reverse=True)
 
-    with open(gpath / f"{gallery_name}.yml", 'w') as f:
-        f.write(yaml.dump(
-            {
-                'picture_path': gallery_name,
-                'preview': img_ymls[0],
-                'pictures': img_ymls
-            }
-        ))
+    # overview page
+    ov = []
 
-    with open(ppath / f"{gallery_name}.md", 'w') as f:
-        f.write(GALLERY_MARKDOWN.format(capname=gallery_name.capitalize(), name=gallery_name))
+    # Create all gallery
+    ovg = build_gallery('all', 'All', img_ymls, gpath, ppath, picture_path)
+    ov.append(ovg)
 
-    # update overview gallery
-    preview = next(p for p in img_ymls if p['orientation'] == 'landscape')
-
-    ov = get_overview_yaml(gpath / "overview.yml")
-    if not isinstance(ov, list):
-        ov = []
-
-    ovg = {
-        'title': gallery_name.capitalize(),
-        'directory': gallery_name,
-        'preview': preview
-    }
-    gindex = -1
-    for i, gal in enumerate(ov):
-        if gal['directory'] == gallery_name:
-            gindex = i
-    if gindex > 0:
-        ov[gindex] = ovg
-    else:
+    # For each gallery tag create gallery data
+    for tag in GALLERY_TAGS:
+        ovg = build_gallery(tag, TAG_TO_NAME[tag], img_ymls, gpath, ppath, picture_path)
         ov.append(ovg)
+
     with open(gpath / "overview.yml", 'w') as f:
         f.write(yaml.dump(ov))
+
+
+def build_gallery(tag, gallery_name, all_imgs, gpath, ppath, picture_path):
+    if tag == 'all':
+        ymls = all_imgs
+    else:
+        ymls = [yml for yml in all_imgs if tag in yml['keywords']]
+
+    try:
+        preview = next(p for p in ymls if p['orientation'] == 'landscape')
+    except:
+        preview = ymls[0]
+    with open(gpath / f"{tag}.yml", 'w') as f:
+        f.write(yaml.dump(
+            {
+                'picture_path': picture_path,
+                'preview': preview,
+                'pictures': ymls
+            }
+        ))
+    with open(ppath / f"{tag}.md", 'w') as f:
+        f.write(GALLERY_MARKDOWN.format(capname=gallery_name, name=tag))
+
+    # return overview yaml
+    return {
+        'title': gallery_name,
+        'directory': picture_path,
+        'preview': preview,
+        'link': tag
+    }
+
+
+def first(itr):
+    for i in itr:
+        return i
 
 
 def get_exif(img):
@@ -120,7 +167,9 @@ def get_exif_caption(exif):
 
 
 def get_keywords(file_path):
-    return [k.decode('utf-8') for k in IPTCInfo(file_path)['keywords']]
+    return [
+        k.decode('utf-8') for k in IPTCInfo(file_path)['keywords']
+    ]
 
 
 def get_title(file_path):
