@@ -11,7 +11,7 @@ support: [jquery, gallery]
     <div class="gutter-sizer"></div>
     {% for gallery in site.data.galleries.overview %}
       <div class="image-wrapper">
-        <h1 class="title">{{ gallery.title }}</h1>
+        <div class="title"><h1>{{ gallery.title }}</h1></div>
         <a href="{{ site.url }}{{ site.baseurl }}/photography/{{ gallery.link }}.html">
           <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photos/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
         </a>
