@@ -23,17 +23,18 @@
   }
 
   &__img {
-    height: 18em;
-    padding: 1em;
+    height: 50vh;
+    max-height: 800px;
+    padding-bottom: 1em;
 
     @media (min-width: $mq-small) {
-      height: 36em;
-      padding: 2em;
+      height: 50vh;
+      padding-bottom: 2em 0;
     }
 
     @media (min-width: $mq-med) {
-      height: calc(100vh - 3em);
-      min-height: 36em;
+      height: 50vh;
+      // min-height: 36em;
     }
 
     & > * {
@@ -188,10 +189,10 @@
   p {
     margin-bottom: 1.5rem;
 
-    font-size: 1.1em;
+    font-size: 1em;
 
     @media (min-width: $mq-small) {
-      font-size: 1.25em;
+      font-size: 1em;
     }
 
     img {
