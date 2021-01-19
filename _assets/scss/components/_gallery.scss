@@ -154,7 +154,7 @@ $device-overview: 600px;
     background-color: rgba($color-darkgrey, 0.5);
     padding: 0 $spacing-unit calc(#{$spacing-unit} * 2) $spacing-unit;
     background-clip: content-box;
-    width: 100%;
+    width: calc(100% + 1px);
     bottom: 0%;
     left: 50%;
     transform: translate(-50%, 0%);
