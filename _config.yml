@@ -7,9 +7,9 @@ google_analytics: G-X2SRGHCJ7W
 name: Ben Shulman
 title: Ben Shulman
 description: >
-  Ben Shulman is a software engineer, naturalist guide, and photographer.
+  Ben Shulman is a photographer, naturalist guide, and software engineer.
 url: https://ohiat.github.io
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/contact_penguin.jpeg
 social:
   - name: instagram
     url: https://www.instagram.com/bengoesbirding/
@@ -29,8 +29,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Ben Shulman
-    bio: Ben Shulman is a software engineer, naturalist guide, and photographer.
-    url: https://ohiat.github.io
+    bio: Ben Shulman is a photographer, naturalist guide, and software engineer.
+    url: benshulman.photo
 
 # Pagination settings
 pagination:

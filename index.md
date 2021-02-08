@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ben Shulman
+title: About Me
 image: assets/images/baker-bgs-pano.jpg
 ---
 #### Bio
