@@ -1,22 +1,20 @@
 - directory: all
   link: all
   preview: &id001
-    caption: A dusky grouse against the fall colors of Montana. (Lolo National Forest,
-      MT)
-    datetime: '2020-09-23 15:23:27'
-    filename: 20200923-dsc_8326
+    caption: Humboldt-Toiyabe National Forest, NV
+    datetime: '2021-01-29 11:02:29'
+    filename: 20210129-dsc_8993
     keywords:
     - bird
-    - frame-long-list
-    - montana
+    - nevada
     - ready
     - website
     orientation: landscape
-    original: 20200923-dsc_8326-1500x1000.jpg
+    original: 20210129-dsc_8993-1500x1000.jpg
     sizes:
-    - 20200923-dsc_8326-1500x1000.jpg
-    thumbnail: 20200923-dsc_8326-thumbnail.jpg
-    title: Dusky grouse
+    - 20210129-dsc_8993-1500x1000.jpg
+    thumbnail: 20210129-dsc_8993-thumbnail.jpg
+    title: Lesser goldfinch
   title: All
 - directory: all
   link: bird
@@ -25,7 +23,7 @@
 - directory: all
   link: mammal
   preview:
-    caption: A black bear hunts for crabs in the intertidal. (British Columbia)
+    caption: Vancouver Island, British Columbia
     datetime: '2018-08-17 14:53:03'
     filename: 2018---4956
     keywords:
@@ -44,7 +42,7 @@
 - directory: all
   link: nature
   preview:
-    caption: ''
+    caption: Alaska
     datetime: '2019-06-22 14:51:37'
     filename: 2019---3471
     keywords:
@@ -58,12 +56,12 @@
     sizes:
     - 2019---3471-1500x1000.jpg
     thumbnail: 2019---3471-thumbnail.jpg
-    title: ''
+    title: Chocolate lily
   title: Nature
 - directory: all
   link: reptile
   preview:
-    caption: A male Red-headed agama (Ruaha NP, Tanzania)
+    caption: Ruaha National Park, Tanzania
     datetime: '2012-12-28 02:18:08'
     filename: 2012---346
     keywords:

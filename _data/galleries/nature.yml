@@ -1,7 +1,7 @@
 picture_path: all
 pictures:
 - &id001
-  caption: ''
+  caption: Alaska
   datetime: '2019-06-22 14:51:37'
   filename: 2019---3471
   keywords:
@@ -15,8 +15,8 @@ pictures:
   sizes:
   - 2019---3471-1500x1000.jpg
   thumbnail: 2019---3471-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Chocolate lily
+- caption: Alaska
   datetime: '2019-06-18 10:47:45'
   filename: 2019---2636
   keywords:
@@ -30,8 +30,8 @@ pictures:
   sizes:
   - 2019---2636-1500x1125.jpg
   thumbnail: 2019---2636-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Fjords
+- caption: Alaska
   datetime: '2019-06-18 06:42:01'
   filename: 2019---2619
   keywords:
@@ -45,8 +45,8 @@ pictures:
   sizes:
   - 2019---2619-1500x1125.jpg
   thumbnail: 2019---2619-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Fjords
+- caption: Antarctic Peninsula
   datetime: '2018-02-21 10:03:45'
   filename: 2018---1099
   keywords:
@@ -60,8 +60,8 @@ pictures:
   sizes:
   - 2018---1099-1000x1500.jpg
   thumbnail: 2018---1099-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Antarctic coastline
+- caption: Antarctic Peninsula
   datetime: '2018-02-19 19:03:40'
   filename: 2018---298
   keywords:
@@ -75,8 +75,8 @@ pictures:
   sizes:
   - 2018---298-1500x951.jpg
   thumbnail: 2018---298-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Antarctic skies
+- caption: Drake Passage
   datetime: '2018-02-19 14:50:15'
   filename: 2018---349
   keywords:
@@ -90,9 +90,8 @@ pictures:
   sizes:
   - 2018---349-1500x1000.jpg
   thumbnail: 2018---349-thumbnail.jpg
-  title: ''
-- caption: The moon rises in the late afternoon along the Great Ruaha River (Ruaha
-    NP, Tanzania)
+  title: Iceberg
+- caption: Ruaha National Park, Tanzania
   datetime: '2012-12-26 10:45:34'
   filename: 2012---317
   keywords:
@@ -109,8 +108,7 @@ pictures:
   - 2012---317-1000x1500.jpg
   thumbnail: 2012---317-thumbnail.jpg
   title: Ruaha Afternoon
-- caption: Erosiion along the banks of the Rufiji River resemble a city carved into
-    a cliff. (Selous, Tanzania)
+- caption: Selous Game Reserve, Tanzania
   datetime: '2012-12-21 09:56:55'
   filename: 2012---165
   keywords:
@@ -126,8 +124,7 @@ pictures:
   - 2012---165-1500x1000.jpg
   thumbnail: 2012---165-thumbnail.jpg
   title: Cliff city in miniature
-- caption: Erosion along the banks of the Rufiji River expose a plant's roots (Selous,
-    Tanzania)
+- caption: Selous Game Reserve, Tanzania
   datetime: '2012-12-20 10:12:16'
   filename: 2012---129
   keywords:

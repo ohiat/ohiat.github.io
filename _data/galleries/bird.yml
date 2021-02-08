@@ -1,6 +1,105 @@
 picture_path: all
 pictures:
-- caption: A dusky grouse poses with pride. (Lolo National Forest, MT)
+- &id001
+  caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 11:02:29'
+  filename: 20210129-dsc_8993
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: landscape
+  original: 20210129-dsc_8993-1500x1000.jpg
+  sizes:
+  - 20210129-dsc_8993-1500x1000.jpg
+  thumbnail: 20210129-dsc_8993-thumbnail.jpg
+  title: Lesser goldfinch
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 11:02:24'
+  filename: 20210129-dsc_8987
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: landscape
+  original: 20210129-dsc_8987-1500x1000.jpg
+  sizes:
+  - 20210129-dsc_8987-1500x1000.jpg
+  thumbnail: 20210129-dsc_8987-thumbnail.jpg
+  title: Lesser goldfinch
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 10:37:25'
+  filename: 20210129-dsc_8930
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: portrait
+  original: 20210129-dsc_8930-1000x1500.jpg
+  sizes:
+  - 20210129-dsc_8930-1000x1500.jpg
+  thumbnail: 20210129-dsc_8930-thumbnail.jpg
+  title: American robin
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 10:37:19'
+  filename: 20210129-dsc_8927
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: portrait
+  original: 20210129-dsc_8927-1000x1500.jpg
+  sizes:
+  - 20210129-dsc_8927-1000x1500.jpg
+  thumbnail: 20210129-dsc_8927-thumbnail.jpg
+  title: American robin
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 10:35:04'
+  filename: 20210129-dsc_8911
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: landscape
+  original: 20210129-dsc_8911-1500x1000.jpg
+  sizes:
+  - 20210129-dsc_8911-1500x1000.jpg
+  thumbnail: 20210129-dsc_8911-thumbnail.jpg
+  title: Mourning dove
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 10:34:30'
+  filename: 20210129-dsc_8908
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: portrait
+  original: 20210129-dsc_8908-1000x1500.jpg
+  sizes:
+  - 20210129-dsc_8908-1000x1500.jpg
+  thumbnail: 20210129-dsc_8908-thumbnail.jpg
+  title: Mourning doves
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-29 10:28:49'
+  filename: 20210129-dsc_8873
+  keywords:
+  - bird
+  - nevada
+  - ready
+  - website
+  orientation: landscape
+  original: 20210129-dsc_8873-1500x1000.jpg
+  sizes:
+  - 20210129-dsc_8873-1500x1000.jpg
+  thumbnail: 20210129-dsc_8873-thumbnail.jpg
+  title: Mourning dove
+- caption: Lola National Forest, MT
   datetime: '2020-09-23 15:26:32'
   filename: 20200923-dsc_8339
   keywords:
@@ -15,9 +114,7 @@ pictures:
   - 20200923-dsc_8339-1000x1500.jpg
   thumbnail: 20200923-dsc_8339-thumbnail.jpg
   title: Dusky grouse
-- &id001
-  caption: A dusky grouse against the fall colors of Montana. (Lolo National Forest,
-    MT)
+- caption: Lola National Forest, MT
   datetime: '2020-09-23 15:23:27'
   filename: 20200923-dsc_8326
   keywords:
@@ -32,7 +129,7 @@ pictures:
   - 20200923-dsc_8326-1500x1000.jpg
   thumbnail: 20200923-dsc_8326-thumbnail.jpg
   title: Dusky grouse
-- caption: Dusky grouse poses for a portrait in fall (Lolo National Forest, MT)
+- caption: Lola National Forest, MT
   datetime: '2020-09-23 15:22:43'
   filename: 20200923-dsc_8321
   keywords:
@@ -47,7 +144,7 @@ pictures:
   - 20200923-dsc_8321-1500x1000.jpg
   thumbnail: 20200923-dsc_8321-thumbnail.jpg
   title: Dusky grouse
-- caption: A dusky grouse peers out from the undergrowth. (Lolo National Forest, MT)
+- caption: Lola National Forest, MT
   datetime: '2020-09-21 15:47:10'
   filename: 20200921-dsc_8258
   keywords:
@@ -62,7 +159,7 @@ pictures:
   - 20200921-dsc_8258-1500x1000.jpg
   thumbnail: 20200921-dsc_8258-thumbnail.jpg
   title: Dusky grouse
-- caption: A dusky grouse feasts on a fall teaberry. (Lolo National Forest, MT)
+- caption: Lola National Forest, MT
   datetime: '2020-09-21 15:43:43'
   filename: 20200921-dsc_8255
   keywords:
@@ -77,7 +174,7 @@ pictures:
   - 20200921-dsc_8255-1500x1000.jpg
   thumbnail: 20200921-dsc_8255-thumbnail.jpg
   title: Dusky grouse
-- caption: A ruffed grouse looks on warily. (Caribou-Targhee National Forest, ID)
+- caption: Caribou-Targhee National Forest, ID
   datetime: '2020-09-18 06:49:40'
   filename: 20200918-dsc_7927
   keywords:
@@ -92,7 +189,7 @@ pictures:
   - 20200918-dsc_7927-1000x1500.jpg
   thumbnail: 20200918-dsc_7927-thumbnail.jpg
   title: Ruffed grouse
-- caption: A turkey vulture yawns and stretches. (San Juan Island, WA)
+- caption: San Juan Island, WA
   datetime: '2020-08-24 13:41:27'
   filename: 20200824-dsc_7673
   keywords:
@@ -107,7 +204,7 @@ pictures:
   - 20200824-dsc_7673-1500x1041.jpg
   thumbnail: 20200824-dsc_7673-thumbnail.jpg
   title: Turkey vulture
-- caption: A turkey vulture preens. (San Juan Island, WA)
+- caption: San Juan Island, WA
   datetime: '2020-08-24 13:36:14'
   filename: 20200824-dsc_7642
   keywords:
@@ -122,7 +219,7 @@ pictures:
   - 20200824-dsc_7642-1500x899.jpg
   thumbnail: 20200824-dsc_7642-thumbnail.jpg
   title: Turkey vulture
-- caption: Contemplating life. (San Juan Island, WA)
+- caption: San Juan Island, WA
   datetime: '2020-08-23 09:31:11'
   filename: 20200823-dsc_7542
   keywords:
@@ -137,7 +234,7 @@ pictures:
   - 20200823-dsc_7542-1500x1000.jpg
   thumbnail: 20200823-dsc_7542-thumbnail.jpg
   title: Downy woodpecker
-- caption: A female down woodpecker inspecting a tree branch. (San Juan Island, WA)
+- caption: San Juan Island, WA
   datetime: '2020-08-23 09:30:57'
   filename: 20200823-dsc_7537
   keywords:
@@ -152,7 +249,7 @@ pictures:
   - 20200823-dsc_7537-1225x1500.jpg
   thumbnail: 20200823-dsc_7537-thumbnail.jpg
   title: Downy woodpecker
-- caption: (San Juan Island, WA)
+- caption: San Juan Island, WA
   datetime: '2020-08-23 09:30:32'
   filename: 20200823-dsc_7531
   keywords:
@@ -167,7 +264,22 @@ pictures:
   - 20200823-dsc_7531-1500x1000.jpg
   thumbnail: 20200823-dsc_7531-thumbnail.jpg
   title: Hairy woodpecker
-- caption: A Wrentit does the splits with its lunch. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
+  datetime: '2020-06-06 08:29:57'
+  filename: 20200606-dsc_7101
+  keywords:
+  - bird
+  - california
+  - frame-long-list
+  - ready
+  - website
+  orientation: landscape
+  original: 20200606-dsc_7101-1500x1000.jpg
+  sizes:
+  - 20200606-dsc_7101-1500x1000.jpg
+  thumbnail: 20200606-dsc_7101-thumbnail.jpg
+  title: Wrentit
+- caption: Berkeley, CA
   datetime: '2020-06-06 08:27:37'
   filename: 20200606-dsc_7067
   keywords:
@@ -181,8 +293,8 @@ pictures:
   sizes:
   - 20200606-dsc_7067-1500x1000.jpg
   thumbnail: 20200606-dsc_7067-thumbnail.jpg
-  title: Wrentit with lunch
-- caption: A pygmy nuthatch eyes a pinecone. (East Bay, SF Bay Area)
+  title: Wrentit
+- caption: Berkeley, CA
   datetime: '2020-06-06 07:37:23'
   filename: 20200606-dsc_6745
   keywords:
@@ -196,8 +308,8 @@ pictures:
   sizes:
   - 20200606-dsc_6745-1500x1000.jpg
   thumbnail: 20200606-dsc_6745-thumbnail.jpg
-  title: Pygmy nuthatch on the hunt
-- caption: Red-winged blackbird dives towards the ground. (East Bay, SF Bay Area)
+  title: Pygmy nuthatch
+- caption: Orinda, CA
   datetime: '2020-05-23 07:49:23'
   filename: 20200523-dsc_6263
   keywords:
@@ -212,7 +324,7 @@ pictures:
   - 20200523-dsc_6263-1500x1000.jpg
   thumbnail: 20200523-dsc_6263-thumbnail.jpg
   title: Red-winged blackbird
-- caption: A young Bewick's wren. (Berkeley, CA)
+- caption: Berkeley, CA
   datetime: '2020-05-13 17:26:45'
   filename: 20200513-dsc_4869
   keywords:
@@ -226,8 +338,7 @@ pictures:
   - 20200513-dsc_4869-1500x1000.jpg
   thumbnail: 20200513-dsc_4869-thumbnail.jpg
   title: Bewick's Wren
-- caption: A lesser goldfinch munches on young flowers in spring. (East Bay, SF Bay
-    Area)
+- caption: Berkeley, CA
   datetime: '2020-05-09 08:46:13'
   filename: 20200509-dsc_4799
   keywords:
@@ -242,7 +353,7 @@ pictures:
   - 20200509-dsc_4799-1500x1000.jpg
   thumbnail: 20200509-dsc_4799-thumbnail.jpg
   title: Lesser goldfinch
-- caption: An Anna's hummingbird posing in early spring. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
   datetime: '2020-05-09 08:29:21'
   filename: 20200509-dsc_4739
   keywords:
@@ -257,7 +368,7 @@ pictures:
   - 20200509-dsc_4739-1500x1000.jpg
   thumbnail: 20200509-dsc_4739-thumbnail.jpg
   title: Anna's hummingbird
-- caption: An Anna's hummingbird posing in early spring. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
   datetime: '2020-05-09 08:26:01'
   filename: 20200509-dsc_4697
   keywords:
@@ -272,7 +383,7 @@ pictures:
   - 20200509-dsc_4697-1500x1000.jpg
   thumbnail: 20200509-dsc_4697-thumbnail.jpg
   title: Anna's hummingbird
-- caption: A Wilson's warbler in the underbrush. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
   datetime: '2020-05-09 07:21:29'
   filename: 20200509-dsc_4420
   keywords:
@@ -287,7 +398,7 @@ pictures:
   - 20200509-dsc_4420-1500x1000.jpg
   thumbnail: 20200509-dsc_4420-thumbnail.jpg
   title: Wilson's warbler
-- caption: Feeding on flowers in hummingbird heaven. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
   datetime: '2020-04-30 08:57:44'
   filename: 20200430-dsc_4314
   keywords:
@@ -302,7 +413,7 @@ pictures:
   - 20200430-dsc_4314-1500x1000.jpg
   thumbnail: 20200430-dsc_4314-thumbnail.jpg
   title: Anna's hummingbird
-- caption: Feeding on flowers in hummingbird heaven. (East Bay, SF Bay Area)
+- caption: Berkeley, CA
   datetime: '2020-04-30 08:46:43'
   filename: 20200430-dsc_3971
   keywords:
@@ -317,7 +428,7 @@ pictures:
   - 20200430-dsc_3971-1500x1000.jpg
   thumbnail: 20200430-dsc_3971-thumbnail.jpg
   title: Anna's hummingbird
-- caption: ''
+- caption: Louisiana
   datetime: '2020-02-26 11:11:20'
   filename: nola---355
   keywords:
@@ -332,8 +443,8 @@ pictures:
   sizes:
   - nola---355-1500x1000.jpg
   thumbnail: nola---355-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Swamp sparrow
+- caption: Louisiana
   datetime: '2020-02-26 10:59:22'
   filename: nola---267
   keywords:
@@ -349,8 +460,8 @@ pictures:
   sizes:
   - nola---267-1000x1500.jpg
   thumbnail: nola---267-thumbnail.jpg
-  title: Little blue mirror
-- caption: ''
+  title: Little blue heron
+- caption: Louisiana
   datetime: '2020-02-26 09:49:12'
   filename: nola---180
   keywords:
@@ -365,8 +476,8 @@ pictures:
   sizes:
   - nola---180-1500x1000.jpg
   thumbnail: nola---180-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Snow egret
+- caption: Louisiana
   datetime: '2020-02-26 09:09:47'
   filename: nola---85
   keywords:
@@ -382,8 +493,8 @@ pictures:
   sizes:
   - nola---85-1500x1000.jpg
   thumbnail: nola---85-thumbnail.jpg
-  title: ''
-- caption: A little blue itch
+  title: 'Little blue heron '
+- caption: Louisiana
   datetime: '2020-02-26 09:09:03'
   filename: nola---74
   keywords:
@@ -399,8 +510,8 @@ pictures:
   sizes:
   - nola---74-1000x1500.jpg
   thumbnail: nola---74-thumbnail.jpg
-  title: Little blue heron scratch
-- caption: ''
+  title: Little blue heron
+- caption: Louisiana
   datetime: '2020-02-26 09:07:54'
   filename: nola---50
   keywords:
@@ -416,8 +527,8 @@ pictures:
   sizes:
   - nola---50-1500x1000.jpg
   thumbnail: nola---50-thumbnail.jpg
-  title: ' '
-- caption: ''
+  title: 'Little blue heron '
+- caption: Lafayette, CA
   datetime: '2020-02-08 13:28:56'
   filename: 2020-02-08---254
   keywords:
@@ -430,8 +541,8 @@ pictures:
   sizes:
   - 2020-02-08---254-1500x1000.jpg
   thumbnail: 2020-02-08---254-thumbnail.jpg
-  title: ''
-- caption: A great blue heron fully stretched out. (East Bay, SF Bay Area)
+  title: American white pelican
+- caption: Lafayette, CA
   datetime: '2019-12-27 13:16:58'
   filename: 2019---5827
   keywords:
@@ -446,7 +557,7 @@ pictures:
   - 2019---5827-1500x1000.jpg
   thumbnail: 2019---5827-thumbnail.jpg
   title: Great blue heron
-- caption: A black phoebe pauses for a moment. (East Bay, SF Bay Area)
+- caption: Lafayette, CA
   datetime: '2019-12-26 12:24:38'
   filename: 2019---5735
   keywords:
@@ -461,7 +572,7 @@ pictures:
   - 2019---5735-1500x1000.jpg
   thumbnail: 2019---5735-thumbnail.jpg
   title: Black phoebe
-- caption: A bushtit with a seed. (Berkeley, CA)
+- caption: Berkeley, CA
   datetime: '2019-12-14 09:57:14'
   filename: 2019---5604
   keywords:
@@ -476,7 +587,7 @@ pictures:
   - 2019---5604-1500x1000.jpg
   thumbnail: 2019---5604-thumbnail.jpg
   title: Bushtit
-- caption: ''
+- caption: Alaska
   datetime: '2019-06-21 20:33:04'
   filename: 2019---3418
   keywords:
@@ -490,8 +601,8 @@ pictures:
   sizes:
   - 2019---3418-1500x1000.jpg
   thumbnail: 2019---3418-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Black-legged kittiwake
+- caption: Florida
   datetime: '2018-12-23 17:21:55'
   filename: 2018---5511
   keywords:
@@ -504,8 +615,8 @@ pictures:
   sizes:
   - 2018---5511-1000x1500.jpg
   thumbnail: 2018---5511-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Tricolored heron
+- caption: Florida
   datetime: '2018-12-23 17:21:49'
   filename: 2018---5506
   keywords:
@@ -518,8 +629,8 @@ pictures:
   sizes:
   - 2018---5506-1000x1500.jpg
   thumbnail: 2018---5506-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Tricolored heron
+- caption: The Falkland Islands
   datetime: '2018-03-07 16:44:26'
   filename: 2018---2494
   keywords:
@@ -533,8 +644,8 @@ pictures:
   sizes:
   - 2018---2494-1500x1000.jpg
   thumbnail: 2018---2494-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Striated caracara
+- caption: The Falkland Islands
   datetime: '2018-03-07 16:22:48'
   filename: 2018---2490
   keywords:
@@ -548,8 +659,8 @@ pictures:
   sizes:
   - 2018---2490-1500x1000.jpg
   thumbnail: 2018---2490-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Black-browed albatross chick
+- caption: The Falkland Islands
   datetime: '2018-03-07 09:59:40'
   filename: 2018---2431
   keywords:
@@ -563,8 +674,8 @@ pictures:
   sizes:
   - 2018---2431-1000x1500.jpg
   thumbnail: 2018---2431-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Striated caracara
+- caption: The Falkland Islands
   datetime: '2018-03-07 09:55:12'
   filename: 2018---2430
   keywords:
@@ -578,8 +689,8 @@ pictures:
   sizes:
   - 2018---2430-1500x1000.jpg
   thumbnail: 2018---2430-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Dark-faced ground tyrant
+- caption: The Falkland Islands
   datetime: '2018-03-07 08:40:02'
   filename: 2018---2402
   keywords:
@@ -593,8 +704,8 @@ pictures:
   sizes:
   - 2018---2402-1500x1000.jpg
   thumbnail: 2018---2402-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Black-browed albatross
+- caption: South Georgia
   datetime: '2018-03-02 15:12:20'
   filename: 2018---2183
   keywords:
@@ -608,8 +719,8 @@ pictures:
   sizes:
   - 2018---2183-1500x1000.jpg
   thumbnail: 2018---2183-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Wandering albatross
+- caption: South Georgia
   datetime: '2018-02-28 17:22:40'
   filename: 2018---2040
   keywords:
@@ -623,8 +734,8 @@ pictures:
   sizes:
   - 2018---2040-1500x1000.jpg
   thumbnail: 2018---2040-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Southern giant petrel
+- caption: South Georgia
   datetime: '2018-02-28 10:47:02'
   filename: 2018---1961
   keywords:
@@ -638,8 +749,8 @@ pictures:
   sizes:
   - 2018---1961-1500x1000.jpg
   thumbnail: 2018---1961-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: King penguins
+- caption: South Georgia
   datetime: '2018-02-28 06:29:03'
   filename: 2018---1900
   keywords:
@@ -653,8 +764,8 @@ pictures:
   sizes:
   - 2018---1900-1500x1000.jpg
   thumbnail: 2018---1900-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Northern giant petrel
+- caption: South Georgia
   datetime: '2018-02-28 06:26:14'
   filename: 2018---1894
   keywords:
@@ -668,8 +779,8 @@ pictures:
   sizes:
   - 2018---1894-1500x1000.jpg
   thumbnail: 2018---1894-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: King penguin
+- caption: South Georgia
   datetime: '2018-02-28 06:10:49'
   filename: 2018---1883
   keywords:
@@ -683,8 +794,8 @@ pictures:
   sizes:
   - 2018---1883-1500x1000.jpg
   thumbnail: 2018---1883-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: King penguin
+- caption: Antarctic Peninsula
   datetime: '2018-02-23 09:50:17'
   filename: 2018---1324
   keywords:
@@ -698,8 +809,8 @@ pictures:
   sizes:
   - 2018---1324-1500x1000.jpg
   thumbnail: 2018---1324-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Antarctic shag
+- caption: Antarctic Peninsula
   datetime: '2018-02-20 15:07:23'
   filename: 2018---964
   keywords:
@@ -713,8 +824,8 @@ pictures:
   sizes:
   - 2018---964-1500x1000.jpg
   thumbnail: 2018---964-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Wilson's storm petrel
+- caption: Antarctic Peninsula
   datetime: '2018-02-20 10:53:23'
   filename: 2018---892
   keywords:
@@ -728,8 +839,8 @@ pictures:
   sizes:
   - 2018---892-1500x1000.jpg
   thumbnail: 2018---892-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Gentoo penguins
+- caption: Antarctic Peninsula
   datetime: '2018-02-19 18:00:22'
   filename: 2018---801
   keywords:
@@ -743,8 +854,8 @@ pictures:
   sizes:
   - 2018---801-1500x1000.jpg
   thumbnail: 2018---801-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Gentoo penguin
+- caption: Antarctic Peninsula
   datetime: '2018-02-19 17:55:25'
   filename: 2018---774
   keywords:
@@ -758,8 +869,8 @@ pictures:
   sizes:
   - 2018---774-1500x1000.jpg
   thumbnail: 2018---774-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Gentoo penguin
+- caption: Antarctic Peninsula
   datetime: '2018-02-19 17:32:15'
   filename: 2018---691
   keywords:
@@ -773,8 +884,8 @@ pictures:
   sizes:
   - 2018---691-1500x1000.jpg
   thumbnail: 2018---691-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Gentoo penguin
+- caption: Antarctic Peninsula
   datetime: '2018-02-19 17:26:06'
   filename: 2018---670
   keywords:
@@ -788,8 +899,8 @@ pictures:
   sizes:
   - 2018---670-1500x1000.jpg
   thumbnail: 2018---670-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Gentoo penguin
+- caption: Drake Passage
   datetime: '2018-02-19 14:06:33'
   filename: 2018---315
   keywords:
@@ -803,8 +914,8 @@ pictures:
   sizes:
   - 2018---315-1500x1000.jpg
   thumbnail: 2018---315-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Cape Petrel
+- caption: Drake's Passage
   datetime: '2018-02-19 10:53:55'
   filename: 2018---265
   keywords:
@@ -818,8 +929,8 @@ pictures:
   sizes:
   - 2018---265-1500x1000.jpg
   thumbnail: 2018---265-thumbnail.jpg
-  title: ''
-- caption: ''
+  title: Chinstrap penguins
+- caption: Drake Passage
   datetime: '2018-02-18 17:38:10'
   filename: 2018---245
   keywords:
@@ -833,8 +944,8 @@ pictures:
   sizes:
   - 2018---245-1500x1000.jpg
   thumbnail: 2018---245-thumbnail.jpg
-  title: ''
-- caption: A juvenile lilac-breasted roller rests on a bush (Ruaha NP, Tanzania)
+  title: Northern giant petrel
+- caption: Ruaha National Park, Tanzania
   datetime: '2012-12-28 05:40:24'
   filename: 2012---372
   keywords:
@@ -851,7 +962,7 @@ pictures:
   - 2012---372-1500x1000.jpg
   thumbnail: 2012---372-thumbnail.jpg
   title: Lilac-breasted roller
-- caption: A black heron stalks in the shallows of a pool (Selous, Tanzania)
+- caption: Selous Game Reserve, Tanzania
   datetime: '2012-12-24 08:45:38'
   filename: 2012---257
   keywords:
@@ -868,7 +979,7 @@ pictures:
   - 2012---257-1500x1000.jpg
   thumbnail: 2012---257-thumbnail.jpg
   title: Black heron
-- caption: A Malachite kingfisher along the Rufiji River (Selous, Tanzania)
+- caption: Selous Game Reserve, Tanzania
   datetime: '2012-12-18 00:56:49'
   filename: 2012---38
   keywords:
@@ -885,7 +996,7 @@ pictures:
   - 2012---38-1500x1000.jpg
   thumbnail: 2012---38-thumbnail.jpg
   title: Malachite Kingfisher
-- caption: A Yellow-billed stork along the Rufiji River (Selous, Tanzania)
+- caption: Selous Game Reserve, Tanzania
   datetime: '2012-12-18 00:56:02'
   filename: 2012---34
   keywords:
