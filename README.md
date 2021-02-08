@@ -1,3 +1,17 @@
+# Update images
+
+- `python3 -m gallery-script -i ~/website -n all`
+- `git commit -am "Photo update"`
+- `git push origin HEAD`
+
+# Update site
+
+- `npm run gulp`
+- `bundle exec jekyll build`
+- `git commit -am "Site update"`
+- `git push origin HEAD`
+
+
 # Barber
 Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈 Barber is also available for [Ghost](https://github.com/samesies/barber-ghost).
 
