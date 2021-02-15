@@ -155,7 +155,7 @@ $device-overview: 600px;
     padding: 0 $spacing-unit calc(#{$spacing-unit} * 2) $spacing-unit;
     background-clip: content-box;
     width: calc(100% + 1px);
-    bottom: 0%;
+    bottom: -1px;
     left: 50%;
     transform: translate(-50%, 0%);
   }
