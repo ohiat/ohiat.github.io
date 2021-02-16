@@ -1,5 +1,5 @@
 # Requires pillow and pyyaml, iptcinfo3
-# example: python3 -m gallery-script -i ~/Desktop/website -n tanzania
+# example: python3 -m gallery-script -i ~/website -n all
 import argparse
 import shutil
 from datetime import datetime

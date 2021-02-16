@@ -42,21 +42,19 @@
 - directory: all
   link: nature
   preview:
-    caption: Alaska
-    datetime: '2019-06-22 14:51:37'
-    filename: 2019---3471
+    caption: Briones Reservoir, CA
+    datetime: '2020-12-12 16:52:18'
+    filename: img_9211
     keywords:
-    - alaska
-    - frame-long-list
     - nature
     - ready
     - website
     orientation: landscape
-    original: 2019---3471-1500x1000.jpg
+    original: img_9211-1500x1125.jpg
     sizes:
-    - 2019---3471-1500x1000.jpg
-    thumbnail: 2019---3471-thumbnail.jpg
-    title: Chocolate lily
+    - img_9211-1500x1125.jpg
+    thumbnail: img_9211-thumbnail.jpg
+    title: Sunset
   title: Nature
 - directory: all
   link: reptile

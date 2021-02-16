@@ -1,7 +1,46 @@
 picture_path: all
 pictures:
 - &id001
-  caption: Alaska
+  caption: Briones Reservoir, CA
+  datetime: '2020-12-12 16:52:18'
+  filename: img_9211
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: img_9211-1500x1125.jpg
+  sizes:
+  - img_9211-1500x1125.jpg
+  thumbnail: img_9211-thumbnail.jpg
+  title: Sunset
+- caption: Berkeley, CA
+  datetime: '2020-05-19 07:42:38'
+  filename: img_6265
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: img_6265-1500x1125.jpg
+  sizes:
+  - img_6265-1500x1125.jpg
+  thumbnail: img_6265-thumbnail.jpg
+  title: Early morning
+- caption: Ohlone WIlderness, CA
+  datetime: '2020-02-16 10:42:50'
+  filename: img_5506
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_5506-1125x1500.jpg
+  sizes:
+  - img_5506-1125x1500.jpg
+  thumbnail: img_5506-thumbnail.jpg
+  title: Spring greens
+- caption: Alaska
   datetime: '2019-06-22 14:51:37'
   filename: 2019---3471
   keywords:
@@ -46,6 +85,84 @@ pictures:
   - 2019---2619-1500x1125.jpg
   thumbnail: 2019---2619-thumbnail.jpg
   title: Fjords
+- caption: Point Reyes National Seashore, CA
+  datetime: '2019-01-12 17:11:48'
+  filename: img_0865
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: img_0865-1500x1125.jpg
+  sizes:
+  - img_0865-1500x1125.jpg
+  thumbnail: img_0865-thumbnail.jpg
+  title: Sunset waves
+- caption: Point Reyes National Seashore, CA
+  datetime: '2019-01-12 11:08:40'
+  filename: img_0781
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_0781-1125x1500.jpg
+  sizes:
+  - img_0781-1125x1500.jpg
+  thumbnail: img_0781-thumbnail.jpg
+  title: Steam
+- caption: Death Valley National Park, CA
+  datetime: '2019-01-02 15:48:43'
+  filename: img_0573
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_0573-1125x1500.jpg
+  sizes:
+  - img_0573-1125x1500.jpg
+  thumbnail: img_0573-thumbnail.jpg
+  title: Sand
+- caption: Death Valley National Park, CA
+  datetime: '2019-01-02 15:39:43'
+  filename: img_0553
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_0553-1125x1500.jpg
+  sizes:
+  - img_0553-1125x1500.jpg
+  thumbnail: img_0553-thumbnail.jpg
+  title: Sand
+- caption: Death Valley National Park, CA
+  datetime: '2018-12-31 13:51:26'
+  filename: img_0331
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_0331-1125x1500.jpg
+  sizes:
+  - img_0331-1125x1500.jpg
+  thumbnail: img_0331-thumbnail.jpg
+  title: Mud
+- caption: British Columbia
+  datetime: '2018-08-19 07:13:11'
+  filename: img_5350
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: img_5350-1125x1500.jpg
+  sizes:
+  - img_5350-1125x1500.jpg
+  thumbnail: img_5350-thumbnail.jpg
+  title: Fog
 - caption: Antarctic Peninsula
   datetime: '2018-02-21 10:03:45'
   filename: 2018---1099
