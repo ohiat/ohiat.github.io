@@ -1,7 +1,33 @@
 picture_path: all
 pictures:
 - &id001
-  caption: Vancouver Island, British Columbia
+  caption: Reno, NV
+  datetime: '2021-02-28 08:08:59'
+  filename: 20210228-dsc_0452
+  keywords:
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0452-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0452-1500x1000.jpg
+  thumbnail: 20210228-dsc_0452-thumbnail.jpg
+  title: Bobcat watching songbirds
+- caption: Reno, NV
+  datetime: '2021-02-28 08:00:34'
+  filename: 20210228-dsc_0356
+  keywords:
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0356-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0356-1500x1000.jpg
+  thumbnail: 20210228-dsc_0356-thumbnail.jpg
+  title: Bobcat
+- caption: Vancouver Island, British Columbia
   datetime: '2018-08-17 14:53:03'
   filename: 2018---4956
   keywords:

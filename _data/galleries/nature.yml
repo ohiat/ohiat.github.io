@@ -1,7 +1,111 @@
 picture_path: all
 pictures:
 - &id001
-  caption: Briones Reservoir, CA
+  caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-03-02 14:46:11'
+  filename: 20210302-dsc_1379
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210302-dsc_1379-1500x1000.jpg
+  sizes:
+  - 20210302-dsc_1379-1500x1000.jpg
+  thumbnail: 20210302-dsc_1379-thumbnail.jpg
+  title: Lichen
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-03-02 14:42:15'
+  filename: 20210302-dsc_1371
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210302-dsc_1371-1500x1000.jpg
+  sizes:
+  - 20210302-dsc_1371-1500x1000.jpg
+  thumbnail: 20210302-dsc_1371-thumbnail.jpg
+  title: ''
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 10:18:43'
+  filename: 20210228-dsc_1040
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_1040-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_1040-1500x1000.jpg
+  thumbnail: 20210228-dsc_1040-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 10:12:02'
+  filename: 20210228-dsc_1008
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_1008-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_1008-1500x1000.jpg
+  thumbnail: 20210228-dsc_1008-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:39:14'
+  filename: 20210228-dsc_0926
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0926-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0926-1500x1000.jpg
+  thumbnail: 20210228-dsc_0926-thumbnail.jpg
+  title: ''
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:32:16'
+  filename: 20210228-dsc_0887
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 20210228-dsc_0887-1000x1500.jpg
+  sizes:
+  - 20210228-dsc_0887-1000x1500.jpg
+  thumbnail: 20210228-dsc_0887-thumbnail.jpg
+  title: Coyote willow bud
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:28:00'
+  filename: 20210228-dsc_0868
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 20210228-dsc_0868-1000x1500.jpg
+  sizes:
+  - 20210228-dsc_0868-1000x1500.jpg
+  thumbnail: 20210228-dsc_0868-thumbnail.jpg
+  title: Coyote willow bud
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 08:57:55'
+  filename: 20210228-dsc_0597
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0597-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0597-1500x1000.jpg
+  thumbnail: 20210228-dsc_0597-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Briones Reservoir, CA
   datetime: '2020-12-12 16:52:18'
   filename: img_9211
   keywords:

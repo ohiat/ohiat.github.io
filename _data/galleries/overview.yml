@@ -2,19 +2,18 @@
   link: all
   preview: &id001
     caption: Humboldt-Toiyabe National Forest, NV
-    datetime: '2021-01-29 11:02:29'
-    filename: 20210129-dsc_8993
+    datetime: '2021-03-13 09:41:54'
+    filename: 20210313-dsc_1868
     keywords:
     - bird
-    - nevada
     - ready
     - website
     orientation: landscape
-    original: 20210129-dsc_8993-1500x1000.jpg
+    original: 20210313-dsc_1868-1500x1000.jpg
     sizes:
-    - 20210129-dsc_8993-1500x1000.jpg
-    thumbnail: 20210129-dsc_8993-thumbnail.jpg
-    title: Lesser goldfinch
+    - 20210313-dsc_1868-1500x1000.jpg
+    thumbnail: 20210313-dsc_1868-thumbnail.jpg
+    title: Black-billed magpie
   title: All
 - directory: all
   link: bird
@@ -23,38 +22,36 @@
 - directory: all
   link: mammal
   preview:
-    caption: Vancouver Island, British Columbia
-    datetime: '2018-08-17 14:53:03'
-    filename: 2018---4956
+    caption: Reno, NV
+    datetime: '2021-02-28 08:08:59'
+    filename: 20210228-dsc_0452
     keywords:
-    - british columbia
-    - helby
     - mammal
     - ready
     - website
     orientation: landscape
-    original: 2018---4956-1500x1000.jpg
+    original: 20210228-dsc_0452-1500x1000.jpg
     sizes:
-    - 2018---4956-1500x1000.jpg
-    thumbnail: 2018---4956-thumbnail.jpg
-    title: Black bear
+    - 20210228-dsc_0452-1500x1000.jpg
+    thumbnail: 20210228-dsc_0452-thumbnail.jpg
+    title: Bobcat watching songbirds
   title: Mammals
 - directory: all
   link: nature
   preview:
-    caption: Briones Reservoir, CA
-    datetime: '2020-12-12 16:52:18'
-    filename: img_9211
+    caption: Humboldt-Toiyabe National Forest, NV
+    datetime: '2021-03-02 14:46:11'
+    filename: 20210302-dsc_1379
     keywords:
     - nature
     - ready
     - website
     orientation: landscape
-    original: img_9211-1500x1125.jpg
+    original: 20210302-dsc_1379-1500x1000.jpg
     sizes:
-    - img_9211-1500x1125.jpg
-    thumbnail: img_9211-thumbnail.jpg
-    title: Sunset
+    - 20210302-dsc_1379-1500x1000.jpg
+    thumbnail: 20210302-dsc_1379-thumbnail.jpg
+    title: Lichen
   title: Nature
 - directory: all
   link: reptile

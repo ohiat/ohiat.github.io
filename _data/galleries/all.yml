@@ -2,19 +2,370 @@ picture_path: all
 pictures:
 - &id001
   caption: Humboldt-Toiyabe National Forest, NV
-  datetime: '2021-01-29 11:02:29'
-  filename: 20210129-dsc_8993
+  datetime: '2021-03-13 09:41:54'
+  filename: 20210313-dsc_1868
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210313-dsc_1868-1500x1000.jpg
+  sizes:
+  - 20210313-dsc_1868-1500x1000.jpg
+  thumbnail: 20210313-dsc_1868-thumbnail.jpg
+  title: Black-billed magpie
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-03-13 08:54:55'
+  filename: 20210313-dsc_1749
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210313-dsc_1749-1500x1000.jpg
+  sizes:
+  - 20210313-dsc_1749-1500x1000.jpg
+  thumbnail: 20210313-dsc_1749-thumbnail.jpg
+  title: Northern mockingbird
+- caption: Stillwater NWR, NV
+  datetime: '2021-03-06 08:51:16'
+  filename: 20210306-dsc_1504
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210306-dsc_1504-1500x1000.jpg
+  sizes:
+  - 20210306-dsc_1504-1500x1000.jpg
+  thumbnail: 20210306-dsc_1504-thumbnail.jpg
+  title: Loggerhead Shrike
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-03-02 14:46:11'
+  filename: 20210302-dsc_1379
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210302-dsc_1379-1500x1000.jpg
+  sizes:
+  - 20210302-dsc_1379-1500x1000.jpg
+  thumbnail: 20210302-dsc_1379-thumbnail.jpg
+  title: Lichen
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-03-02 14:42:15'
+  filename: 20210302-dsc_1371
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210302-dsc_1371-1500x1000.jpg
+  sizes:
+  - 20210302-dsc_1371-1500x1000.jpg
+  thumbnail: 20210302-dsc_1371-thumbnail.jpg
+  title: ''
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 10:18:43'
+  filename: 20210228-dsc_1040
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_1040-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_1040-1500x1000.jpg
+  thumbnail: 20210228-dsc_1040-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 10:12:02'
+  filename: 20210228-dsc_1008
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_1008-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_1008-1500x1000.jpg
+  thumbnail: 20210228-dsc_1008-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:39:14'
+  filename: 20210228-dsc_0926
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0926-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0926-1500x1000.jpg
+  thumbnail: 20210228-dsc_0926-thumbnail.jpg
+  title: ''
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:32:16'
+  filename: 20210228-dsc_0887
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 20210228-dsc_0887-1000x1500.jpg
+  sizes:
+  - 20210228-dsc_0887-1000x1500.jpg
+  thumbnail: 20210228-dsc_0887-thumbnail.jpg
+  title: Coyote willow bud
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 09:28:00'
+  filename: 20210228-dsc_0868
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: portrait
+  original: 20210228-dsc_0868-1000x1500.jpg
+  sizes:
+  - 20210228-dsc_0868-1000x1500.jpg
+  thumbnail: 20210228-dsc_0868-thumbnail.jpg
+  title: Coyote willow bud
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 08:57:55'
+  filename: 20210228-dsc_0597
+  keywords:
+  - nature
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0597-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0597-1500x1000.jpg
+  thumbnail: 20210228-dsc_0597-thumbnail.jpg
+  title: Coyote willow - cone gall
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-28 08:21:22'
+  filename: 20210228-dsc_0481
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0481-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0481-1500x1000.jpg
+  thumbnail: 20210228-dsc_0481-thumbnail.jpg
+  title: Black-billed magpie
+- caption: Reno, NV
+  datetime: '2021-02-28 08:08:59'
+  filename: 20210228-dsc_0452
+  keywords:
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0452-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0452-1500x1000.jpg
+  thumbnail: 20210228-dsc_0452-thumbnail.jpg
+  title: Bobcat watching songbirds
+- caption: Reno, NV
+  datetime: '2021-02-28 08:00:34'
+  filename: 20210228-dsc_0356
+  keywords:
+  - mammal
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0356-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0356-1500x1000.jpg
+  thumbnail: 20210228-dsc_0356-thumbnail.jpg
+  title: Bobcat
+- caption: Reno, NV
+  datetime: '2021-02-28 07:49:04'
+  filename: 20210228-dsc_0315
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0315-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0315-1500x1000.jpg
+  thumbnail: 20210228-dsc_0315-thumbnail.jpg
+  title: Ruby-crowned kinglet
+- caption: Reno, NV
+  datetime: '2021-02-28 07:34:50'
+  filename: 20210228-dsc_0261
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210228-dsc_0261-1500x1000.jpg
+  sizes:
+  - 20210228-dsc_0261-1500x1000.jpg
+  thumbnail: 20210228-dsc_0261-thumbnail.jpg
+  title: Spotted Towhee
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-27 09:51:33'
+  filename: 20210227-dsc_0222
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210227-dsc_0222-1500x1000.jpg
+  sizes:
+  - 20210227-dsc_0222-1500x1000.jpg
+  thumbnail: 20210227-dsc_0222-thumbnail.jpg
+  title: California scrub-jay
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-27 09:32:45'
+  filename: 20210227-dsc_0117
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210227-dsc_0117-1500x1000.jpg
+  sizes:
+  - 20210227-dsc_0117-1500x1000.jpg
+  thumbnail: 20210227-dsc_0117-thumbnail.jpg
+  title: Lesser goldfinch
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-27 09:29:57'
+  filename: 20210227-dsc_0102
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210227-dsc_0102-1500x1000.jpg
+  sizes:
+  - 20210227-dsc_0102-1500x1000.jpg
+  thumbnail: 20210227-dsc_0102-thumbnail.jpg
+  title: Black-billed magpie
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-27 09:18:39'
+  filename: 20210227-dsc_0052
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210227-dsc_0052-1500x1000.jpg
+  sizes:
+  - 20210227-dsc_0052-1500x1000.jpg
+  thumbnail: 20210227-dsc_0052-thumbnail.jpg
+  title: Black-billed magpie
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-02-27 09:07:35'
+  filename: 20210227-dsc_9970
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210227-dsc_9970-1500x1000.jpg
+  sizes:
+  - 20210227-dsc_9970-1500x1000.jpg
+  thumbnail: 20210227-dsc_9970-thumbnail.jpg
+  title: Black-billed magpie
+- caption: East Bay, CA
+  datetime: '2021-02-14 09:38:35'
+  filename: 20210214-dsc_9740
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: portrait
+  original: 20210214-dsc_9740-1125x1500.jpg
+  sizes:
+  - 20210214-dsc_9740-1125x1500.jpg
+  thumbnail: 20210214-dsc_9740-thumbnail.jpg
+  title: Anna's Hummingbird
+- caption: East Bay, CA
+  datetime: '2021-02-14 09:12:29'
+  filename: 20210214-dsc_9630
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210214-dsc_9630-1500x1000.jpg
+  sizes:
+  - 20210214-dsc_9630-1500x1000.jpg
+  thumbnail: 20210214-dsc_9630-thumbnail.jpg
+  title: Western bluebird
+- caption: East Bay, CA
+  datetime: '2021-02-14 08:40:33'
+  filename: 20210214-dsc_9556
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: portrait
+  original: 20210214-dsc_9556-1000x1500.jpg
+  sizes:
+  - 20210214-dsc_9556-1000x1500.jpg
+  thumbnail: 20210214-dsc_9556-thumbnail.jpg
+  title: Anna's Hummingbird
+- caption: East Bay, CA
+  datetime: '2021-02-14 08:39:19'
+  filename: 20210214-dsc_9529
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210214-dsc_9529-1500x1000.jpg
+  sizes:
+  - 20210214-dsc_9529-1500x1000.jpg
+  thumbnail: 20210214-dsc_9529-thumbnail.jpg
+  title: Anna's Hummingbird
+- caption: East Bay, CA
+  datetime: '2021-02-14 08:35:44'
+  filename: 20210214-dsc_9468
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210214-dsc_9468-1500x1000.jpg
+  sizes:
+  - 20210214-dsc_9468-1500x1000.jpg
+  thumbnail: 20210214-dsc_9468-thumbnail.jpg
+  title: Anna's Hummingbird
+- caption: East Bay, CA
+  datetime: '2021-02-14 08:20:04'
+  filename: 20210214-dsc_9380
+  keywords:
+  - bird
+  - ready
+  - website
+  orientation: landscape
+  original: 20210214-dsc_9380-1500x1000.jpg
+  sizes:
+  - 20210214-dsc_9380-1500x1000.jpg
+  thumbnail: 20210214-dsc_9380-thumbnail.jpg
+  title: Western bluebird
+- caption: Humboldt-Toiyabe National Forest, NV
+  datetime: '2021-01-31 08:08:12'
+  filename: 20210131-dsc_9258
   keywords:
   - bird
   - nevada
   - ready
   - website
   orientation: landscape
-  original: 20210129-dsc_8993-1500x1000.jpg
+  original: 20210131-dsc_9258-1500x1000.jpg
   sizes:
-  - 20210129-dsc_8993-1500x1000.jpg
-  thumbnail: 20210129-dsc_8993-thumbnail.jpg
-  title: Lesser goldfinch
+  - 20210131-dsc_9258-1500x1000.jpg
+  thumbnail: 20210131-dsc_9258-thumbnail.jpg
+  title: Golden-crowned sparrow
 - caption: Humboldt-Toiyabe National Forest, NV
   datetime: '2021-01-29 11:02:24'
   filename: 20210129-dsc_8987
@@ -29,20 +380,6 @@ pictures:
   - 20210129-dsc_8987-1500x1000.jpg
   thumbnail: 20210129-dsc_8987-thumbnail.jpg
   title: Lesser goldfinch
-- caption: Humboldt-Toiyabe National Forest, NV
-  datetime: '2021-01-29 10:37:25'
-  filename: 20210129-dsc_8930
-  keywords:
-  - bird
-  - nevada
-  - ready
-  - website
-  orientation: portrait
-  original: 20210129-dsc_8930-1000x1500.jpg
-  sizes:
-  - 20210129-dsc_8930-1000x1500.jpg
-  thumbnail: 20210129-dsc_8930-thumbnail.jpg
-  title: American robin
 - caption: Humboldt-Toiyabe National Forest, NV
   datetime: '2021-01-29 10:37:19'
   filename: 20210129-dsc_8927
