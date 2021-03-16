@@ -1,6 +1,22 @@
 - directory: all
   link: all
-  preview: &id001
+  preview:
+    caption: ''
+    datetime: '2021-03-13 09:57:36'
+    filename: 20210313-dsc_1965
+    keywords:
+    - ready
+    - website
+    orientation: landscape
+    original: 20210313-dsc_1965-1500x1000.jpg
+    sizes:
+    - 20210313-dsc_1965-1500x1000.jpg
+    thumbnail: 20210313-dsc_1965-thumbnail.jpg
+    title: ''
+  title: All
+- directory: all
+  link: bird
+  preview:
     caption: Humboldt-Toiyabe National Forest, NV
     datetime: '2021-03-13 09:41:54'
     filename: 20210313-dsc_1868
@@ -14,10 +30,6 @@
     - 20210313-dsc_1868-1500x1000.jpg
     thumbnail: 20210313-dsc_1868-thumbnail.jpg
     title: Black-billed magpie
-  title: All
-- directory: all
-  link: bird
-  preview: *id001
   title: Birds
 - directory: all
   link: mammal
