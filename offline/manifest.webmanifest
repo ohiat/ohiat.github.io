@@ -1,0 +1,19 @@
+{
+  "name": "Mapbox Offline Tile Caching",
+  "short_name": "Mapbox Offline",
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#FF9800",
+  "background_color": "#FF9800",
+  "icons": [
+    {
+      "src": "images/mapbox144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "images/mapbox512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

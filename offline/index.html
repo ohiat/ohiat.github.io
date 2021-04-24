@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Tile caching</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="Mapbox Offline Tiles">
+  <meta name="apple-mobile-web-app-title" content="Mapbox Offline Tiles">
+  <meta name="theme-color" content="#FF9800">
+  <meta name="msapplication-navbutton-color" content="#FF9800">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="msapplication-starturl" content="/index.html">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" sizes="144x144" href="images/mapbox144.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="images/mapbox144.png">
+  <link rel="icon" sizes="512x512" href="images/mapbox512.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="images/mapbox512.png">
+</head>
+
+<body>
+  <div id="map"></div>
+  <script src="index.js"></script>
+
+</body>
+
+</html>
